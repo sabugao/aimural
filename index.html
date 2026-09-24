@@ -4,19 +4,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Mural — jornal diário de IA</title>
-<meta name="description" content="As notícias do dia sobre inteligência artificial, penduradas como recortes numa parede.">
+<meta name="description" content="As notícias do dia sobre inteligência artificial, coladas como primeiras páginas numa parede.">
 <meta property="og:title" content="Mural — jornal diário de IA">
-<meta property="og:description" content="As notícias do dia sobre inteligência artificial, penduradas como recortes numa parede.">
+<meta property="og:description" content="As notícias do dia sobre inteligência artificial, coladas como primeiras páginas numa parede.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Playfair+Display:ital,wght@0,800;0,900;1,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Inter:wght@500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect x='6' y='4' width='20' height='24' fill='%23fdfcf8' stroke='%23111' stroke-width='1.5'/><rect x='10' y='9' width='12' height='2' fill='%23111'/><rect x='10' y='14' width='12' height='1' fill='%23999'/><rect x='10' y='17' width='9' height='1' fill='%23999'/></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f1eee6'/><rect x='5' y='5' width='22' height='3' fill='%23111'/><rect x='5' y='11' width='22' height='7' fill='%23111'/><rect x='5' y='21' width='10' height='1.5' fill='%23777'/><rect x='17' y='21' width='10' height='1.5' fill='%23777'/><rect x='5' y='24.5' width='10' height='1.5' fill='%23777'/><rect x='17' y='24.5' width='10' height='1.5' fill='%23777'/></svg>">
 </head>
 <body>
-<header class="top">
+<header class="bar">
   <a class="mark" href="./">Mural</a>
-  <span class="tag">Jornal diário de inteligência artificial</span>
+  <p class="edition"><span id="edition">&nbsp;</span> <span class="sep">·</span> <span id="date">&nbsp;</span></p>
   <nav class="daynav" aria-label="Edições">
     <a id="prev" href="#" aria-label="Edição anterior">←</a>
     <a id="next" href="#" aria-label="Próxima edição">→</a>
@@ -24,20 +24,15 @@
 </header>
 
 <main>
-  <section class="title">
-    <p class="eyebrow" id="edition">&nbsp;</p>
-    <h1 id="date">&nbsp;</h1>
-    <p class="count" id="count">&nbsp;</p>
-  </section>
   <section class="wall" id="wall" aria-live="polite"></section>
-  <section class="archive" id="archive-wrap" hidden>
-    <h2>Arquivo</h2>
-    <ol id="archive"></ol>
-  </section>
 </main>
 
 <footer class="foot">
-  <p>Recortes escolhidos todo dia às 7h a partir de Folha de S.Paulo, g1, Exame, Tecnoblog, Canaltech, Olhar Digital, MIT Technology Review, The Verge, Ars Technica e TechCrunch. Cada recorte leva à matéria original.</p>
+  <div class="archive" id="archive-wrap" hidden>
+    <h2>Arquivo</h2>
+    <ol id="archive"></ol>
+  </div>
+  <p>Jornal diário de inteligência artificial. Recortes escolhidos todo dia às 7h a partir de Folha de S.Paulo, g1, Exame, Tecnoblog, Canaltech, Olhar Digital, MIT Technology Review, The Verge, Ars Technica e TechCrunch. Cada página leva à matéria original.</p>
 </footer>
 <script src="app.js"></script>
 </body>

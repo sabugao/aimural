@@ -1,8 +1,8 @@
-# Mural
+# Mural - daily ai journal
 
-Jornal diário de inteligência artificial: as notícias de IA do dia, penduradas como recortes numa parede.
+The day's AI news, pasted on a wall as front pages. By @danmagatti.
 
-- Todo dia às 07:00 (São Paulo) o workflow `Daily edition` roda `build.py`, lê os feeds RSS públicos das fontes, escolhe até 9 matérias de IA das últimas 30 horas (até 3 internacionais), salva `data/days/AAAA-MM-DD.json` e publica o site no GitHub Pages.
-- Rodar na hora: Actions → Daily edition → Run workflow.
-- Sem chaves, sem segredos, sem dependências. Cada recorte mostra só título, linha fina e fonte, e leva à matéria original.
-- Ajustes: `MURAL_STORIES` (quantidade por dia) e `MURAL_MAX_EN` (vagas internacionais) no topo de `build.py`; fontes na lista `FEEDS`.
+- Every day at 07:00 (São Paulo) the `Daily edition` workflow runs `build.py`. It reads public RSS feeds, keeps AI stories from the last 30 hours, picks 12 (international first, up to 4 Brazilian), saves `data/days/YYYY-MM-DD.json` and publishes the site on GitHub Pages.
+- Run it now: Actions -> Daily edition -> Run workflow.
+- No keys, no secrets, no dependencies. Each page shows only the headline, a one-line summary and the outlet, and links to the original story.
+- Tuning: `MURAL_STORIES` (per day) and `MURAL_MAX_PT` (Brazilian slots) at the top of `build.py`; sources in `FEEDS`.

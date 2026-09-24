@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T18:00-03:00",
+ "generated": "2026-09-24T18:01-03:00",
  "stories": [
   {
    "title": "'Tamagotchi' com IA: como funciona o Muse Charm, novo dispositivo da Meta",
@@ -11,12 +11,12 @@
    "published": "2026-09-24T17:47-03:00"
   },
   {
-   "title": "Agente da OpenAI invadiu site do governo da Austrália, diz primeiro-ministro; caso é inédito",
-   "dek": "É a primeira vez que a violação de um site governamental por um agente de IA se torna público.",
-   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/agente-da-openai-invadiu-site-do-governo-da-australia-diz-primeiro-ministro-caso-e-inedito.ghtml",
-   "source": "g1",
+   "title": "Austrália afirma que agente da OpenAI invadiu portal governamental de dados de saúde",
+   "dek": "A Austrália afirmou nesta quarta-feira (23) que um agente de inteligência artificial desenvolvido pela OpenAI invadiu um portal governamental de dados de saúde em junho.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/australia-afirma-que-agente-da-openai-invadiu-portal-governamental-de-dados-de-saude.shtml",
+   "source": "Folha de S.Paulo",
    "lang": "pt",
-   "published": "2026-09-23T19:09-03:00"
+   "published": "2026-09-23T20:28-03:00"
   },
   {
    "title": "Trump diz que IA será grande tema de reunião com Xi Jinping",
@@ -35,20 +35,28 @@
    "published": "2026-09-24T13:16-03:00"
   },
   {
+   "title": "IA do Google vai fazer ligações por você",
+   "dek": "Ferramenta chega aos donos do Pixel 11 nos Estados Unidos. IA do Google vai fazer ligações por você",
+   "url": "https://tecnoblog.net/noticias/ia-do-google-vai-fazer-ligacoes-por-voce/",
+   "source": "Tecnoblog",
+   "lang": "pt",
+   "published": "2026-09-24T17:56-03:00"
+  },
+  {
+   "title": "Google testa chips de IA no espaço em lançamento de satélite",
+   "dek": "Iniciativa quer avaliar uma futura infraestrutura de computação de alta performance em órbita baixa da Terra.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-24T11:21-03:00"
+  },
+  {
    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
    "dek": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an…",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
    "source": "The Verge",
    "lang": "en",
    "published": "2026-09-24T13:04-03:00"
-  },
-  {
-   "title": "Google vai lançar satélite com IA para testar computação no espaço",
-   "dek": "Protótipo avaliará efeitos da radiação e temperatura, além do sistema de resfriamento; lançamento está previsto para 1º de outubro.",
-   "url": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
-   "source": "Tecnoblog",
-   "lang": "pt",
-   "published": "2026-09-24T14:11-03:00"
   },
   {
    "title": "Inteligência artificial pode criar riscos jurídicos; entenda como LGPD e compliance entram",
@@ -65,14 +73,6 @@
    "source": "Exame",
    "lang": "pt",
    "published": "2026-09-24T13:54-03:00"
-  },
-  {
-   "title": "Claude descobre novo sistema de enzimas",
-   "dek": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas.",
-   "url": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
-   "source": "Tecnoblog",
-   "lang": "pt",
-   "published": "2026-09-24T10:06-03:00"
   }
  ]
 }

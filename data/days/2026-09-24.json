@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T18:21-03:00",
+ "generated": "2026-09-24T18:23-03:00",
  "stories": [
   {
    "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
@@ -35,20 +35,20 @@
    "published": "2026-09-23T21:00-03:00"
   },
   {
-   "title": "Trump diz que IA será grande tema de reunião com Xi Jinping",
-   "dek": "Líderes se reúnem na quinta-feira (24) para discussões, e chinês retorna a Pequim na sexta-feira (25), após cerimônia do chá oferecida por Melania Trump e visita ao Arquivo Nacional.",
-   "url": "https://g1.globo.com/mundo/noticia/2026/09/24/trump-diz-que-ia-sera-grande-tema-de-reuniao-com-xi-jinping.ghtml",
-   "source": "g1",
-   "lang": "pt",
-   "published": "2026-09-24T08:31-03:00"
-  },
-  {
    "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
    "dek": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an…",
    "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
    "source": "The Verge",
    "lang": "en",
    "published": "2026-09-24T13:04-03:00"
+  },
+  {
+   "title": "Trump diz que IA será grande tema de reunião com Xi Jinping",
+   "dek": "Líderes se reúnem na quinta-feira (24) para discussões, e chinês retorna a Pequim na sexta-feira (25), após cerimônia do chá oferecida por Melania Trump e visita ao Arquivo Nacional.",
+   "url": "https://g1.globo.com/mundo/noticia/2026/09/24/trump-diz-que-ia-sera-grande-tema-de-reuniao-com-xi-jinping.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-24T08:31-03:00"
   },
   {
    "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
@@ -91,12 +91,12 @@
    "published": "2026-09-24T13:54-03:00"
   },
   {
-   "title": "Jensen Huang talks about AI and climate change like a supervillain",
-   "dek": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.",
-   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
-   "source": "The Verge",
+   "title": "New Jersey fines data center $1.1M after drone pics expose 62 gas generators",
+   "dek": "Million-dollar fines won’t end billionaires’ data center pollution, neighbors fear.",
+   "url": "https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators/",
+   "source": "Ars Technica",
    "lang": "en",
-   "published": "2026-09-24T15:04-03:00"
+   "published": "2026-09-24T15:20-03:00"
   }
  ]
 }

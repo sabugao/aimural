@@ -1,25 +1,26 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Mural — jornal diário de IA</title>
-<meta name="description" content="As notícias do dia sobre inteligência artificial, coladas como primeiras páginas numa parede.">
-<meta property="og:title" content="Mural — jornal diário de IA">
-<meta property="og:description" content="As notícias do dia sobre inteligência artificial, coladas como primeiras páginas numa parede.">
+<title>Mural - daily ai journal</title>
+<meta name="description" content="The day's AI news, pasted on a wall as front pages.">
+<meta property="og:title" content="Mural - daily ai journal">
+<meta property="og:description" content="The day's AI news, pasted on a wall as front pages.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&family=Playfair+Display:ital,wght@0,800;0,900;1,700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Inter:wght@500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter+Tight:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23f1eee6'/><rect x='5' y='5' width='22' height='3' fill='%23111'/><rect x='5' y='11' width='22' height='7' fill='%23111'/><rect x='5' y='21' width='10' height='1.5' fill='%23777'/><rect x='17' y='21' width='10' height='1.5' fill='%23777'/><rect x='5' y='24.5' width='10' height='1.5' fill='%23777'/><rect x='17' y='24.5' width='10' height='1.5' fill='%23777'/></svg>">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' fill='%23fff'/><rect x='5' y='5' width='22' height='3' fill='%23111'/><rect x='5' y='11' width='22' height='7' fill='%23111'/><rect x='5' y='21' width='10' height='1.5' fill='%23777'/><rect x='17' y='21' width='10' height='1.5' fill='%23777'/><rect x='5' y='24.5' width='10' height='1.5' fill='%23777'/><rect x='17' y='24.5' width='10' height='1.5' fill='%23777'/></svg>">
 </head>
 <body>
 <header class="bar">
   <a class="mark" href="./">Mural</a>
+  <span class="tag">daily ai journal</span>
   <p class="edition"><span id="edition">&nbsp;</span> <span class="sep">·</span> <span id="date">&nbsp;</span></p>
-  <nav class="daynav" aria-label="Edições">
-    <a id="prev" href="#" aria-label="Edição anterior">←</a>
-    <a id="next" href="#" aria-label="Próxima edição">→</a>
+  <nav class="daynav" aria-label="Editions">
+    <a id="prev" href="#" aria-label="Previous edition">←</a>
+    <a id="next" href="#" aria-label="Next edition">→</a>
   </nav>
 </header>
 
@@ -29,10 +30,11 @@
 
 <footer class="foot">
   <div class="archive" id="archive-wrap" hidden>
-    <h2>Arquivo</h2>
+    <h2>Archive</h2>
     <ol id="archive"></ol>
   </div>
-  <p>Jornal diário de inteligência artificial. Recortes escolhidos todo dia às 7h a partir de Folha de S.Paulo, g1, Exame, Tecnoblog, Canaltech, Olhar Digital, MIT Technology Review, The Verge, Ars Technica e TechCrunch. Cada página leva à matéria original.</p>
+  <p class="credit">by <a href="https://www.instagram.com/danmagatti/" target="_blank" rel="noopener">@danmagatti</a></p>
+  <p>Mural - daily ai journal. Twelve front pages, picked every morning at 7am (São Paulo) from The Guardian, MIT Technology Review, The Verge, BBC News, Wired, Ars Technica, TechCrunch, Engadget, Folha de S.Paulo, g1, Exame, Tecnoblog, Canaltech and Olhar Digital. Every page links to the original story.</p>
 </footer>
 <script src="app.js"></script>
 </body>

@@ -115,6 +115,8 @@ def crowded(s, picked):
 
 
 def same_story(a, b):
+    if a["lang"] != b["lang"] and len(a["_ed"] & b["_ed"]) >= 2:
+        return True  # same story told in PT and EN
     shared = a["_t"] & b["_t"]
     return len(shared) >= 3 or len(a["_e"] & b["_e"]) >= 2 or len(shared) / max(1, len(a["_t"] | b["_t"])) > 0.3
 
@@ -150,7 +152,7 @@ def main():
                 continue
             pool.append({"title": title, "dek": dek_from(desc, title), "url": link.strip(), "source": name,
                          "lang": lang, "published": d.astimezone(TZ).isoformat(timespec="minutes"),
-                         "_w": weight, "_t": tokens(title), "_e": entities(title), "_d": d})
+                         "_w": weight, "_t": tokens(title), "_e": entities(title), "_ed": entities(title + " " + dek_from(desc, title)), "_d": d})
     signal = []
     try:
         signal = [tokens(clean(t)) for t, *_ in items(fetch(SIGNAL))]

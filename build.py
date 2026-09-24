@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Mural de IA - daily edition builder.
+"""Mural - daily ai journal. Daily edition builder.
 
 Pulls public RSS feeds, keeps AI stories from the last ~30h, ranks them,
 and writes data/days/YYYY-MM-DD.json plus data/index.json.
 Standard library only, so the GitHub Action needs no installs.
 """
-import html, json, os, re, sys, urllib.request
+import html, json, os, re, sys, unicodedata, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -15,25 +15,32 @@ ROOT = Path(__file__).resolve().parent
 DAYS = ROOT / "data" / "days"
 TZ = timezone(timedelta(hours=-3))  # America/Sao_Paulo (no DST since 2019)
 
-STORIES_PER_DAY = int(os.environ.get("MURAL_STORIES", "9"))
-MAX_EN = int(os.environ.get("MURAL_MAX_EN", "3"))  # international slots
+STORIES_PER_DAY = int(os.environ.get("MURAL_STORIES", "12"))
+MAX_PT = int(os.environ.get("MURAL_MAX_PT", "4"))  # Brazilian slots; the rest is international
 WINDOW_HOURS = 30
 
 # name, url, language, weight, ai_only (feed is already AI-scoped)
 FEEDS = [
-    ("Folha de S.Paulo", "https://feeds.folha.uol.com.br/tec/rss091.xml", "pt", 1.0, False),
-    ("g1", "https://g1.globo.com/rss/g1/tecnologia/", "pt", 0.95, False),
-    ("Exame", "https://exame.com/feed/", "pt", 0.8, False),
-    ("Tecnoblog", "https://tecnoblog.net/feed/", "pt", 0.85, False),
-    ("Canaltech", "https://canaltech.com.br/rss/", "pt", 0.75, False),
-    ("Olhar Digital", "https://olhardigital.com.br/feed/", "pt", 0.7, False),
-    ("MIT Technology Review", "https://www.technologyreview.com/topic/artificial-intelligence/feed", "en", 0.95, True),
-    ("The Verge", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "en", 0.9, True),
-    ("Ars Technica", "https://arstechnica.com/ai/feed/", "en", 0.85, True),
-    ("TechCrunch", "https://techcrunch.com/category/artificial-intelligence/feed/", "en", 0.8, True),
+    ("The Guardian", "https://www.theguardian.com/technology/artificialintelligenceai/rss", "en", 1.0, True),
+    ("MIT Technology Review", "https://www.technologyreview.com/topic/artificial-intelligence/feed", "en", 1.0, True),
+    ("The Verge", "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "en", 0.95, True),
+    ("BBC News", "https://feeds.bbci.co.uk/news/technology/rss.xml", "en", 0.95, False),
+    ("Wired", "https://www.wired.com/feed/tag/ai/latest/rss", "en", 0.9, True),
+    ("Ars Technica", "https://arstechnica.com/ai/feed/", "en", 0.9, True),
+    ("TechCrunch", "https://techcrunch.com/category/artificial-intelligence/feed/", "en", 0.85, True),
+    ("Engadget", "https://www.engadget.com/rss.xml", "en", 0.75, False),
+    ("Folha de S.Paulo", "https://feeds.folha.uol.com.br/tec/rss091.xml", "pt", 0.9, False),
+    ("g1", "https://g1.globo.com/rss/g1/tecnologia/", "pt", 0.85, False),
+    ("Exame", "https://exame.com/feed/", "pt", 0.7, False),
+    ("Tecnoblog", "https://tecnoblog.net/feed/", "pt", 0.75, False),
+    ("Canaltech", "https://canaltech.com.br/rss/", "pt", 0.65, False),
+    ("Olhar Digital", "https://olhardigital.com.br/feed/", "pt", 0.6, False),
 ]
 # Coverage signal only (not shown): how many outlets carry the same story today.
-SIGNAL = "https://news.google.com/rss/search?q=%22intelig%C3%AAncia+artificial%22+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419"
+SIGNALS = [
+    "https://news.google.com/rss/search?q=%22artificial+intelligence%22+when:1d&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=%22intelig%C3%AAncia+artificial%22+when:1d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+]
 
 AI_RE = re.compile(
     r"\b(IA|IAs|AI)\b|intelig[êe]ncia artificial|artificial intelligence|OpenAI|ChatGPT|"
@@ -47,7 +54,7 @@ NS = {"atom": "http://www.w3.org/2005/Atom"}
 
 
 def fetch(url):
-    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Mural de IA; +https://github.com)"})
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Mural daily ai journal; +https://github.com)"})
     with urllib.request.urlopen(req, timeout=20) as r:
         return r.read()
 
@@ -97,12 +104,23 @@ def items(raw):
                it.findtext("atom:published", namespaces=NS) or it.findtext("atom:updated", namespaces=NS))
 
 
+BRIDGE = {"espaço": "space", "satélite": "satellite", "órbita": "orbit", "orbital": "orbit", "governo": "government",
+          "saúde": "health", "óculos": "glasses", "agente": "agent", "ligações": "calls", "chamadas": "calls",
+          "enzimas": "enzymes", "eleições": "election", "elections": "election"}
+
+
+def norm(w):
+    w = BRIDGE.get(w.lower(), w.lower())
+    w = "".join(c for c in unicodedata.normalize("NFD", w) if unicodedata.category(c) != "Mn")
+    return w[:5]  # crude stem: australia/austrália/australian -> austr
+
+
 def entities(t):
     words = re.findall(r"\w+", t)
-    return {w.lower() for w in words if w[:1].isupper() and len(w) > 2 and w.lower() not in STOP}
+    return {norm(w) for w in words if w[:1].isupper() and len(w) > 2 and w.lower() not in STOP}
 
 
-GIANTS = set("google meta openai microsoft apple amazon nvidia anthropic china eua trump brasil".split())
+GIANTS = {norm(w) for w in "google meta openai microsoft apple amazon nvidia anthropic china eua trump brasil".split()}
 
 
 def crowded(s, picked):
@@ -115,14 +133,14 @@ def crowded(s, picked):
 
 
 def same_story(a, b):
-    if a["lang"] != b["lang"] and len(a["_ed"] & b["_ed"]) >= 2:
+    if a["lang"] != b["lang"] and (len(a["_ed"] & b["_ed"]) >= 2 or len(a["_t"] & b["_t"]) >= 2):
         return True  # same story told in PT and EN
     shared = a["_t"] & b["_t"]
     return len(shared) >= 3 or len(a["_e"] & b["_e"]) >= 2 or len(shared) / max(1, len(a["_t"] | b["_t"])) > 0.3
 
 
 def tokens(t):
-    return {w for w in re.findall(r"\w+", t.lower()) if len(w) > 2 and w not in STOP}
+    return {norm(w) for w in re.findall(r"\w+", t.lower()) if len(w) > 2 and w not in STOP}
 
 
 def is_ai(title, desc, ai_only):
@@ -150,14 +168,17 @@ def main():
                 continue
             if not is_ai(title, desc or "", ai_only):
                 continue
+            if name.split()[0].lower() in title.lower() or re.search(r"[–-] live$|\blive updates?\b", title, re.I):
+                continue  # outlet self-promo and live blogs
             pool.append({"title": title, "dek": dek_from(desc, title), "url": link.strip(), "source": name,
                          "lang": lang, "published": d.astimezone(TZ).isoformat(timespec="minutes"),
                          "_w": weight, "_t": tokens(title), "_e": entities(title), "_ed": entities(title + " " + dek_from(desc, title)), "_d": d})
     signal = []
-    try:
-        signal = [tokens(clean(t)) for t, *_ in items(fetch(SIGNAL))]
-    except Exception as e:
-        errors.append(f"signal: {e}")
+    for url in SIGNALS:
+        try:
+            signal += [tokens(clean(t)) for t, *_ in items(fetch(url))]
+        except Exception as e:
+            errors.append(f"signal: {e}")
 
     for s in pool:
         cover = sum(1 for o in pool if o is not s and o["source"] != s["source"] and len(s["_t"] & o["_t"]) >= 3)
@@ -166,16 +187,16 @@ def main():
         s["_score"] = s["_w"] * 2 + min(cover, 6) * 0.6 + max(0, 1 - age_h / WINDOW_HOURS)
 
     pool.sort(key=lambda s: s["_score"], reverse=True)
-    picked, en = [], 0
+    picked, pt = [], 0
     for s in pool:
         if any(same_story(s, p) for p in picked) or crowded(s, picked):
             continue  # same story from another outlet
         if sum(1 for p in picked if p["source"] == s["source"]) >= 3:
             continue
-        if s["lang"] == "en":
-            if en >= MAX_EN:
+        if s["lang"] == "pt":
+            if pt >= MAX_PT:
                 continue
-            en += 1
+            pt += 1
         picked.append(s)
         if len(picked) >= STORIES_PER_DAY:
             break
@@ -190,7 +211,7 @@ def main():
         ensure_ascii=False, indent=1) + "\n")
     days = sorted((p.stem for p in DAYS.glob("*.json")), reverse=True)
     (ROOT / "data" / "index.json").write_text(json.dumps({"days": days}, indent=1) + "\n")
-    print(f"{day}: {len(stories)} stories ({en} international). Pool {len(pool)}.")
+    print(f"{day}: {len(stories)} stories ({pt} Brazilian). Pool {len(pool)}.")
     for e in errors:
         print("warn:", e, file=sys.stderr)
 

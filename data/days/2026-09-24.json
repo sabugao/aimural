@@ -1,0 +1,78 @@
+{
+ "date": "2026-09-24",
+ "generated": "2026-09-24T18:00-03:00",
+ "stories": [
+  {
+   "title": "'Tamagotchi' com IA: como funciona o Muse Charm, novo dispositivo da Meta",
+   "dek": "Com o tamanho de um relógio de bolso e um personagem animado, Muse Charm lembra os antigos aparelhos que fizeram sucesso na década de 1990.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/tamagotchi-com-ia-como-funciona-o-muse-charm-novo-dispositivo-da-meta.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-24T17:47-03:00"
+  },
+  {
+   "title": "Agente da OpenAI invadiu site do governo da Austrália, diz primeiro-ministro; caso é inédito",
+   "dek": "É a primeira vez que a violação de um site governamental por um agente de IA se torna público.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/agente-da-openai-invadiu-site-do-governo-da-australia-diz-primeiro-ministro-caso-e-inedito.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-23T19:09-03:00"
+  },
+  {
+   "title": "Trump diz que IA será grande tema de reunião com Xi Jinping",
+   "dek": "Líderes se reúnem na quinta-feira (24) para discussões, e chinês retorna a Pequim na sexta-feira (25), após cerimônia do chá oferecida por Melania Trump e visita ao Arquivo Nacional.",
+   "url": "https://g1.globo.com/mundo/noticia/2026/09/24/trump-diz-que-ia-sera-grande-tema-de-reuniao-com-xi-jinping.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-24T08:31-03:00"
+  },
+  {
+   "title": "Google's first Suncatcher orbital data center test launches October 1",
+   "dek": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
+   "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-09-24T13:16-03:00"
+  },
+  {
+   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+   "dek": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an…",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-24T13:04-03:00"
+  },
+  {
+   "title": "Google vai lançar satélite com IA para testar computação no espaço",
+   "dek": "Protótipo avaliará efeitos da radiação e temperatura, além do sistema de resfriamento; lançamento está previsto para 1º de outubro.",
+   "url": "https://tecnoblog.net/noticias/google-vai-lancar-satelite-com-ia-para-testar-computacao-no-espaco/",
+   "source": "Tecnoblog",
+   "lang": "pt",
+   "published": "2026-09-24T14:11-03:00"
+  },
+  {
+   "title": "Inteligência artificial pode criar riscos jurídicos; entenda como LGPD e compliance entram",
+   "dek": "ANPD aponta desafios relacionados à IA generativa, como compartilhamento de dados, transparência e uso de informações pessoais",
+   "url": "https://exame.com/inteligencia-artificial/inteligencia-artificial-pode-criar-riscos-juridicos-entenda-como-lgpd-e-compliance-entram/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-09-24T14:00-03:00"
+  },
+  {
+   "title": "Deepfakes disparam 308% e exigem atenção: como reconhecer um vídeo falso nas eleições",
+   "dek": "Levantamento da Lupa mostra avanço de conteúdos falsos feitos com IA, enquanto o TSE estabelece regras específicas para deepfakes nas eleições de 2026",
+   "url": "https://exame.com/inteligencia-artificial/deepfakes-disparam-308-e-exigem-atencao-como-reconhecer-um-video-falso-nas-eleicoes/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-09-24T13:54-03:00"
+  },
+  {
+   "title": "Claude descobre novo sistema de enzimas",
+   "dek": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas.",
+   "url": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
+   "source": "Tecnoblog",
+   "lang": "pt",
+   "published": "2026-09-24T10:06-03:00"
+  }
+ ]
+}

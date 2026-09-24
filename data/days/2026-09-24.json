@@ -1,14 +1,38 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T18:20-03:00",
+ "generated": "2026-09-24T18:21-03:00",
  "stories": [
   {
-   "title": "'Tamagotchi' com IA: como funciona o Muse Charm, novo dispositivo da Meta",
-   "dek": "Com o tamanho de um relógio de bolso e um personagem animado, Muse Charm lembra os antigos aparelhos que fizeram sucesso na década de 1990.",
-   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/tamagotchi-com-ia-como-funciona-o-muse-charm-novo-dispositivo-da-meta.ghtml",
-   "source": "g1",
-   "lang": "pt",
-   "published": "2026-09-24T17:47-03:00"
+   "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
+   "dek": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
+   "url": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-09-24T12:42-03:00"
+  },
+  {
+   "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+   "dek": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+   "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-23T21:46-03:00"
+  },
+  {
+   "title": "Google is sending a teensy-tiny AI data center to space",
+   "dek": "It's an experiment to see how the chips hold up in the harsh vacuum of the cosmos.",
+   "url": "https://www.engadget.com/2267975/google-is-sending-a-teensy-tiny-ai-data-center-to-space/",
+   "source": "Engadget",
+   "lang": "en",
+   "published": "2026-09-24T14:45-03:00"
+  },
+  {
+   "title": "Meta debuts no-camera smart glasses and virtual reality spectacles",
+   "dek": "The new wearables come at a time of uncertainty for smart glasses, which are facing backlash over privacy concerns Meta announced an advanced new set of virtual reality glasses and a collection of new",
+   "url": "https://www.theguardian.com/technology/2026/sep/23/meta-smart-vr-glasses",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-23T21:00-03:00"
   },
   {
    "title": "Trump diz que IA será grande tema de reunião com Xi Jinping",
@@ -19,36 +43,36 @@
    "published": "2026-09-24T08:31-03:00"
   },
   {
-   "title": "Austrália afirma que agente da OpenAI invadiu portal governamental de dados de saúde",
-   "dek": "A Austrália afirmou nesta quarta-feira (23) que um agente de inteligência artificial desenvolvido pela OpenAI invadiu um portal governamental de dados de saúde em junho.",
-   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/australia-afirma-que-agente-da-openai-invadiu-portal-governamental-de-dados-de-saude.shtml",
-   "source": "Folha de S.Paulo",
-   "lang": "pt",
-   "published": "2026-09-23T20:28-03:00"
-  },
-  {
-   "title": "Google's first Suncatcher orbital data center test launches October 1",
-   "dek": "Google's experimental orbital data center will have four TPUs and only run for 15 minutes at a time.",
-   "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
-   "source": "Ars Technica",
+   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
+   "dek": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an…",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
+   "source": "The Verge",
    "lang": "en",
-   "published": "2026-09-24T13:16-03:00"
+   "published": "2026-09-24T13:04-03:00"
   },
   {
-   "title": "IA do Google vai fazer ligações por você",
-   "dek": "Ferramenta chega aos donos do Pixel 11 nos Estados Unidos. IA do Google vai fazer ligações por você",
-   "url": "https://tecnoblog.net/noticias/ia-do-google-vai-fazer-ligacoes-por-voce/",
-   "source": "Tecnoblog",
-   "lang": "pt",
-   "published": "2026-09-24T17:56-03:00"
+   "title": "Nick Clegg plays down fears ‘godlike’ AI could exterminate humanity",
+   "dek": "Former deputy PM now involved in tech industry says many within sector are ‘winding themselves up into a lather’ Nick Clegg has dismissed fears over AI’s “godlike power to exterminate humanity”, calli",
+   "url": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-24T06:19-03:00"
   },
   {
-   "title": "Google testa chips de IA no espaço em lançamento de satélite",
-   "dek": "Iniciativa quer avaliar uma futura infraestrutura de computação de alta performance em órbita baixa da Terra.",
-   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/24/google-testa-chips-de-ia-no-espaco.ghtml",
+   "title": "Líderes de IA discutem riscos da tecnologia em reunião do Conselho de Segurança da ONU",
+   "dek": "CEO da Anthropic afirmou que IA pode ser uma ameaça para a humanidade se for mal gerenciada.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/23/lideres-de-ia-discutem-riscos-da-tecnologia-em-reuniao-do-conselho-de-seguranca-da-onu.ghtml",
    "source": "g1",
    "lang": "pt",
-   "published": "2026-09-24T11:21-03:00"
+   "published": "2026-09-23T16:55-03:00"
+  },
+  {
+   "title": "Launch of UK’s ‘largest AI supercomputer’ delayed by power supply problems",
+   "dek": "Datacentre hailed by government was supposed to start operating next year but may be held back into mid-2030s A huge datacentre project hailed by the UK government will miss its launch date next year ",
+   "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-24T14:26-03:00"
   },
   {
    "title": "Inteligência artificial pode criar riscos jurídicos; entenda como LGPD e compliance entram",
@@ -67,12 +91,12 @@
    "published": "2026-09-24T13:54-03:00"
   },
   {
-   "title": "Claude descobre novo sistema de enzimas",
-   "dek": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas.",
-   "url": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
-   "source": "Tecnoblog",
-   "lang": "pt",
-   "published": "2026-09-24T10:06-03:00"
+   "title": "Jensen Huang talks about AI and climate change like a supervillain",
+   "dek": "As Jensen Huang puts it, AI can help fight climate change - but only if it inflicts \"an enormous amount of pain and suffering\" first.",
+   "url": "https://www.theverge.com/tech/1000140/jensen-huang-nvidia-ai-energy-climate-change-supervillain",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-24T15:04-03:00"
   }
  ]
 }

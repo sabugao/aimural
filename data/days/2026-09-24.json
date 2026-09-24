@@ -1,6 +1,6 @@
 {
  "date": "2026-09-24",
- "generated": "2026-09-24T18:14-03:00",
+ "generated": "2026-09-24T18:15-03:00",
  "stories": [
   {
    "title": "'Tamagotchi' com IA: como funciona o Muse Charm, novo dispositivo da Meta",
@@ -51,14 +51,6 @@
    "published": "2026-09-24T11:21-03:00"
   },
   {
-   "title": "Gemini can now call businesses for you so you don’t have to wait on hold",
-   "dek": "Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an…",
-   "url": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls",
-   "source": "The Verge",
-   "lang": "en",
-   "published": "2026-09-24T13:04-03:00"
-  },
-  {
    "title": "Inteligência artificial pode criar riscos jurídicos; entenda como LGPD e compliance entram",
    "dek": "ANPD aponta desafios relacionados à IA generativa, como compartilhamento de dados, transparência e uso de informações pessoais",
    "url": "https://exame.com/inteligencia-artificial/inteligencia-artificial-pode-criar-riscos-juridicos-entenda-como-lgpd-e-compliance-entram/",
@@ -73,6 +65,14 @@
    "source": "Exame",
    "lang": "pt",
    "published": "2026-09-24T13:54-03:00"
+  },
+  {
+   "title": "Claude descobre novo sistema de enzimas",
+   "dek": "Inteligência artificial da Anthropic foi usada para analisar aproximadamente 200 mil enzimas com 950 agentes em 21 horas.",
+   "url": "https://tecnoblog.net/noticias/anthropic-diz-ter-descoberto-novo-sistema-de-enzimas-com-o-claude/",
+   "source": "Tecnoblog",
+   "lang": "pt",
+   "published": "2026-09-24T10:06-03:00"
   }
  ]
 }

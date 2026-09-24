@@ -2,13 +2,14 @@
 """Mural - daily ai journal. Daily edition builder.
 
 Pulls public RSS feeds, keeps AI stories from the last ~30h, ranks them,
-and writes data/days/YYYY-MM-DD.json plus data/index.json.
+and writes data/days/YYYY-MM-DD.json, data/index.json and feed.xml.
 Standard library only, so the GitHub Action needs no installs.
 """
 import html, json, os, re, sys, unicodedata, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
-from email.utils import parsedate_to_datetime
+from email.utils import format_datetime, parsedate_to_datetime
+from xml.sax.saxutils import escape
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
@@ -18,6 +19,8 @@ TZ = timezone(timedelta(hours=-3))  # America/Sao_Paulo (no DST since 2019)
 STORIES_PER_DAY = int(os.environ.get("MURAL_STORIES", "12"))
 MAX_PT = int(os.environ.get("MURAL_MAX_PT", "4"))  # Brazilian slots; the rest is international
 WINDOW_HOURS = 30
+SITE = "https://aimural.danmagatti.com/"
+FEED_DAYS = 14  # editions kept in feed.xml
 
 # name, url, language, weight, ai_only (feed is already AI-scoped)
 FEEDS = [
@@ -150,6 +153,43 @@ def is_ai(title, desc, ai_only):
     return bool(AI_CASE_SENSITIVE.search(head) or re.search(AI_RE.pattern, head, re.I) and not re.fullmatch(r".*\bai\b.*", head))
 
 
+def write_feed():
+    """feed.xml at the site root: every story from the latest editions, newest edition first."""
+    days = sorted((p.stem for p in DAYS.glob("*.json")), reverse=True)[:FEED_DAYS]
+    out, seen, newest = [], set(), None
+    for day in days:
+        data = json.loads((DAYS / f"{day}.json").read_text())
+        gen = parse_date(data.get("generated")) or datetime.fromisoformat(day).replace(tzinfo=TZ)
+        newest = newest or gen
+        for s in data.get("stories", []):
+            if s["url"] in seen:
+                continue
+            seen.add(s["url"])
+            pub = parse_date(s.get("published")) or gen
+            desc = (s.get("dek") + " " if s.get("dek") else "") + f"({s['source']})"
+            out.append(
+                "<item>"
+                f"<title>{escape(s['title'])}</title>"
+                f"<link>{escape(s['url'])}</link>"
+                f'<guid isPermaLink="false">{escape(s["url"])}</guid>'
+                f"<pubDate>{format_datetime(pub)}</pubDate>"
+                f"<category>{day}</category>"
+                f"<description>{escape(desc)}</description>"
+                "</item>")
+    newest = newest or datetime.now(TZ)
+    (ROOT / "feed.xml").write_text(
+        '<?xml version="1.0" encoding="UTF-8"?>\n'
+        '<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">\n<channel>\n'
+        "<title>Mural - daily ai journal</title>\n"
+        f"<link>{SITE}</link>\n"
+        f'<atom:link href="{SITE}feed.xml" rel="self" type="application/rss+xml"/>\n'
+        "<description>The day's AI news, twelve front pages every morning at 7am (Sao Paulo).</description>\n"
+        "<language>en</language>\n"
+        f"<lastBuildDate>{format_datetime(newest)}</lastBuildDate>\n"
+        "<ttl>360</ttl>\n"
+        + "\n".join(out) + "\n</channel>\n</rss>\n")
+
+
 def main():
     now = datetime.now(TZ)
     day = os.environ.get("MURAL_DATE") or now.strftime("%Y-%m-%d")
@@ -204,6 +244,7 @@ def main():
     stories = [{k: v for k, v in s.items() if not k.startswith("_")} for s in picked]
     if not stories:
         print("No stories found; keeping previous data.", errors, file=sys.stderr)
+        write_feed()
         sys.exit(0)
     DAYS.mkdir(parents=True, exist_ok=True)
     (DAYS / f"{day}.json").write_text(json.dumps(
@@ -211,6 +252,7 @@ def main():
         ensure_ascii=False, indent=1) + "\n")
     days = sorted((p.stem for p in DAYS.glob("*.json")), reverse=True)
     (ROOT / "data" / "index.json").write_text(json.dumps({"days": days}, indent=1) + "\n")
+    write_feed()
     print(f"{day}: {len(stories)} stories ({pt} Brazilian). Pool {len(pool)}.")
     for e in errors:
         print("warn:", e, file=sys.stderr)

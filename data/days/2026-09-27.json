@@ -1,0 +1,94 @@
+{
+ "date": "2026-09-27",
+ "generated": "2026-09-27T07:12-03:00",
+ "stories": [
+  {
+   "title": "OpenAI pauses training of its ‘most capable models’",
+   "dek": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-26T13:34-03:00"
+  },
+  {
+   "title": "Dona do ChatGPT diz que seus robôs podem ter invadido sistemas de vários órgãos do governo dos EUA",
+   "dek": "Agentes da OpenAI tentaram obter informações de \"governos, universidades, agências públicas e outras instituições\".",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/26/dona-do-chatgpt-diz-que-seus-robos-podem-ter-invadido-sistemas-de-varios-orgaos-do-governo-dos-eua.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-26T18:28-03:00"
+  },
+  {
+   "title": "China e EUA concordam com corte de tarifas de R$ 156 bilhões, diz Pequim",
+   "dek": "Entendimento foi anunciado após encontro entre Xi Jinping e Donald Trump em Washington e também prevê diálogo sobre inteligência artificial e criação de um conselho comercial.",
+   "url": "https://g1.globo.com/economia/noticia/2026/09/26/china-eua-tarifas.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-26T07:57-03:00"
+  },
+  {
+   "title": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+   "dek": "Microsoft co-founder and philanthropist speaks with NBC’s Kristen Welker in interview airing on Sunday Bill Gates has called on the US’s federal legislators and law enforcers to regulate the developme",
+   "url": "https://www.theguardian.com/us-news/2026/sep/27/bill-gates-artificial-intelligence-kristen-welker",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-27T06:00-03:00"
+  },
+  {
+   "title": "Heads of OpenAI and Anthropic called to face Senate inquiry after rogue agent incidents",
+   "dek": "Sam Altman and Dario Amodei have been invited to appear before the Greens-led inquiry into AI and datacentres Follow our Australia news live blog for latest updates Get our new political email , free ",
+   "url": "https://www.theguardian.com/australia-news/2026/sep/27/sam-altman-openai-dario-amodei-anthropic-senate-inquiry-medicare-hack-rogue-ai-agent-leak",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-26T11:00-03:00"
+  },
+  {
+   "title": "IA avança em escritórios de advocacia nos EUA, e clientes exigem descontos em honorários",
+   "dek": "Quem vê de fora costuma apontar o direito como um setor ameaçado pela inteligência artificial .",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/ia-avanca-em-escritorios-de-advocacia-nos-eua-e-clientes-exigem-descontos-em-honorarios.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-09-27T04:00-03:00"
+  },
+  {
+   "title": "IA já entende vídeo e voz em tempo real; como isso muda a forma como as empresas atendem clientes",
+   "dek": "Novos recursos permitem que sistemas processem fala, imagens e vídeo durante uma interação, ampliando o contexto disponível para o atendimento",
+   "url": "https://exame.com/inteligencia-artificial/ia-ja-entende-video-e-voz-em-tempo-real-como-isso-muda-a-forma-como-as-empresas-atendem-clientes/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-09-27T04:03-03:00"
+  },
+  {
+   "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+   "dek": "The limited test covers select products and users, with a broader rollout planned for later in October.",
+   "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-26T22:30-03:00"
+  },
+  {
+   "title": "Insurers claim AI is already increasing healthcare costs",
+   "dek": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+   "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-26T18:02-03:00"
+  },
+  {
+   "title": "I created an interactive digital avatar of myself — and you can talk to it",
+   "dek": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
+   "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-26T11:00-03:00"
+  },
+  {
+   "title": "Meta’s Muse Is Adults-Only. Why Does It Look Like a Kids’ Toy?",
+   "dek": "Meta says Muse is just for adults, though its cuddly, Labubu-like mascot—and upcoming Tamagotchi-style AI device—may be disarming for users of all ages.",
+   "url": "https://www.wired.com/story/meta-muse-is-adults-only-why-does-it-look-like-a-cute-kids-toy/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-09-26T07:30-03:00"
+  }
+ ]
+}

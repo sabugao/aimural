@@ -1,0 +1,102 @@
+{
+ "date": "2026-09-29",
+ "generated": "2026-09-29T07:14-03:00",
+ "stories": [
+  {
+   "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+   "dek": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them?",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-29T04:15-03:00"
+  },
+  {
+   "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+   "dek": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artifici",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-28T16:24-03:00"
+  },
+  {
+   "title": "AMD is acquiring AI company World Labs in a deal worth more than $8 billion",
+   "dek": "AMD announced today that it's acquiring World Labs, an AI research lab co-founded by the prominent researcher Dr.",
+   "url": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-28T18:31-03:00"
+  },
+  {
+   "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+   "dek": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websites Follow our Australia news live blog for latest updates Get our breaking news email , fre",
+   "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-28T23:51-03:00"
+  },
+  {
+   "title": "Google is killing off Gemini’s Gems in favor of ‘skills’",
+   "dek": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature that built task-specific agents.",
+   "url": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-28T14:29-03:00"
+  },
+  {
+   "title": "Dá para desligar uma IA? Entenda por que um 'botão de emergência' pode não ser tão simples",
+   "dek": "Especialistas explicam como funciona o 'kill switch' e por que interromper sistemas de IA se torna mais difícil quando eles atuam de forma autônoma e em diferentes dispositivos.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/da-para-desligar-uma-ia-entenda-por-que-um-botao-de-emergencia-pode-nao-ser-tao-simples.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-29T04:00-03:00"
+  },
+  {
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "dek": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-29T02:13-03:00"
+  },
+  {
+   "title": "Trump irá discutir equilíbrio entre controle e inovação com líderes de IA, diz presidente da Câmara dos EUA",
+   "dek": "O presidente dos Estados Unidos , Donald Trump , irá se encontrar nesta terça-feira (29) com CEOs de empresas de tecnologia para falar sobre inteligência artificial .",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/trump-ira-discutir-equilibrio-entre-controle-e-inovacao-com-lideres-de-ia-diz-presidente-da-camara-dos-eua.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-09-28T20:07-03:00"
+  },
+  {
+   "title": "Seu cargo pode valer mais com IA: 7 tarefas que aumentam o valor de um profissional",
+   "dek": "Ao assumir atividades repetitivas, a IA pode liberar tempo para trabalhos que exigem análise, julgamento e tomada de decisão",
+   "url": "https://exame.com/inteligencia-artificial/seu-cargo-pode-valer-mais-com-ia-7-tarefas-que-aumentam-o-valor-de-um-profissional/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-09-29T03:04-03:00"
+  },
+  {
+   "title": "Papa Leão XIV diz que temores de que IA possa destruir o mundo 'não são fake news'",
+   "dek": "Declaração contraria posição defendida por Donald Trump na Assembleia Geral da ONU.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/28/papa-leao-xiv-inteligencia-artificial.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-28T17:31-03:00"
+  },
+  {
+   "title": "OpenAI halts frontier-model training amid string of agent misalignment incidents",
+   "dek": "US Government websites among \"dozens of third parties\" OpenAI has recently notified.",
+   "url": "https://arstechnica.com/ai/2026/09/openai-halts-frontier-model-training-amid-string-of-agent-misalignment-incidents/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-09-28T13:43-03:00"
+  },
+  {
+   "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+   "dek": "Meta says it will focus on bringing its full technology stack, including Muse, Meta Business Agent, Muse API, Muse Code, and more to businesses and developers.",
+   "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-28T13:52-03:00"
+  }
+ ]
+}

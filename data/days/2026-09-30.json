@@ -1,0 +1,102 @@
+{
+ "date": "2026-09-30",
+ "generated": "2026-09-30T07:14-03:00",
+ "stories": [
+  {
+   "title": "Trump announces vague ‘morally binding’ AI deal among tech CEOs for ‘tremendous self-policing’",
+   "dek": "US president also issues executive order officially rebranding ‘artificial intelligence’ as ‘superintelligence’ Donald Trump announced on Tuesday that the heads of the largest US tech and AI companies",
+   "url": "https://www.theguardian.com/us-news/2026/sep/29/trump-ai-deal-tech-ceos-superintelligence",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-29T20:21-03:00"
+  },
+  {
+   "title": "OpenAI announces ‘dots’ agent after scrapping launch of new AI model over safety concerns",
+   "dek": "Company’s product comes weeks after Meta introduced its own artificially intelligent agent Muse Less than 24 hours after OpenAI announced it would scrap the launch of an artificial intelligence model ",
+   "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-29T18:25-03:00"
+  },
+  {
+   "title": "Trump orders US government to call AI ‘Super Intelligence’",
+   "dek": "The US executive branch is no longer acknowledging the existence of \"artificial intelligence.\" Going forward, official policy websites, policy documents, and press releases will refer only to \"Super I",
+   "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-29T19:25-03:00"
+  },
+  {
+   "title": "Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+   "dek": "The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he received a",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-09-29T10:58-03:00"
+  },
+  {
+   "title": "Anthropic’s IPO pitch includes a warning about human extinction",
+   "dek": "The Claude maker warns its own models could resist shutdowns and cause catastrophic harm.",
+   "url": "https://arstechnica.com/ai/2026/09/anthropics-ipo-pitch-includes-a-warning-about-human-extinction/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-09-29T11:10-03:00"
+  },
+  {
+   "title": "Trump diz que cooperar com a China na regulação da IA prejudicaria empresas dos EUA",
+   "dek": "Presidente americano rejeita cooperação com Xi Jinping para criar regras para a IA, enquanto aumenta a pressão sobre o governo dos EUA por medidas contra riscos da tecnologia e seus impactos",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/trump-diz-que-cooperar-com-a-china-na-regulacao-da-ia-prejudicaria-empresas-dos-eua.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-29T12:38-03:00"
+  },
+  {
+   "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+   "dek": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-09-29T21:19-03:00"
+  },
+  {
+   "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+   "dek": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multistep…",
+   "url": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-09-29T14:15-03:00"
+  },
+  {
+   "title": "Por que algumas pessoas acreditam que a IA é um Anticristo",
+   "dek": "Muitos cristãos influentes, em fóruns que variam do TikTok e podcasts até o setor editorial, começaram a discutir se a inteligência artificial poderá ser um catalisador da destruição do planeta.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/30/por-que-algumas-pessoas-acreditam-que-a-ia-e-um-anticristo.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-30T04:00-03:00"
+  },
+  {
+   "title": "Dona do Claude admite que IA representa 'riscos para a humanidade'",
+   "dek": "Empresa criadora do Claude alerta investidores sobre possíveis riscos existenciais da IA antes de preparar sua entrada na Bolsa.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/09/29/dona-do-claude-admite-que-ia-representa-riscos-para-a-humanidade.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-09-29T08:38-03:00"
+  },
+  {
+   "title": "Milei oferece Argentina como refúgio sem regras para a inteligência artificial",
+   "dek": "Santiago Oría, cineasta pessoal e estrategista de mídia do presidente argentino Javier Milei , ficou impressionado quando viu os vídeos de uma jovem influenciadora no Instagram.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/09/milei-oferece-argentina-como-refugio-sem-regras-para-a-inteligencia-artificial.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-09-29T16:38-03:00"
+  },
+  {
+   "title": "Chinese AI tool told researchers how to make bioweapons",
+   "dek": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
+   "url": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-09-29T20:15-03:00"
+  }
+ ]
+}

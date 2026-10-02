@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-02",
+ "generated": "2026-10-02T07:13-03:00",
+ "stories": [
+  {
+   "title": "Google lança novo modelo Gemini com salvaguardas em meio ao debate sobre segurança da IA",
+   "dek": "O Google lançou nesta quarta-feira (30) seu mais recente modelo de inteligência artificial de ponta, o Gemini 4 Argon, em uma tentativa de alcançar concorrentes como OpenAI e Anthropic.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/google-lanca-novo-modelo-gemini-com-salvaguardas-em-meio-ao-debate-sobre-seguranca-da-ia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-01T06:00-03:00"
+  },
+  {
+   "title": "OpenAI fires workers for 'mishandling sensitive information'",
+   "dek": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+   "url": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-10-02T05:20-03:00"
+  },
+  {
+   "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking",
+   "dek": "State attorney general issues subpoena to OpenAI as ​part of broader inquiry into potential security vulnerabilities California’s attorney general has issued an investigative subpoena to OpenAI, start",
+   "url": "https://www.theguardian.com/us-news/2026/oct/01/california-opens-investigation-openai-hack",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-01T16:01-03:00"
+  },
+  {
+   "title": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+   "dek": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+   "url": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-01T14:12-03:00"
+  },
+  {
+   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
+   "dek": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
+   "url": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-10-01T16:18-03:00"
+  },
+  {
+   "title": "OpenAI fires three employees who allegedly shared info with an external AI safety group",
+   "dek": "You can't make this stuff up.",
+   "url": "https://www.engadget.com/2275278/openai-fires-three-employees-who-allegedly-shared-info-with-an-external-ai-safety-group/",
+   "source": "Engadget",
+   "lang": "en",
+   "published": "2026-10-01T19:05-03:00"
+  },
+  {
+   "title": "AI weapons systems are already here. Algorithms must not decide who lives and dies | Kenneth Roth",
+   "dek": "Israel’s conduct in Gaza shows the danger of using AI in warfare.",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/02/ai-weapons-systems-algorithms-war",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-02T07:00-03:00"
+  },
+  {
+   "title": "Don’t be fooled—LLMs don’t reason",
+   "dek": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent.",
+   "url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-10-02T05:00-03:00"
+  },
+  {
+   "title": "AI music maker Suno now generates spoken words",
+   "dek": "Suno is branching out from the world of AI music, launching a new feature that generates spoken voices based on scripts or prompted descriptions.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1003925/suno-speech-ai-voice-feature-beta-availability",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-02T06:42-03:00"
+  },
+  {
+   "title": "O paradoxo da IA: quanto mais poderosa ela fica, mais valiosa a confiança humana se torna",
+   "dek": "À medida que ferramentas de inteligência artificial assumem tarefas mais complexas, cresce a importância de saber quando aceitar, questionar e revisar o que elas produzem",
+   "url": "https://exame.com/inteligencia-artificial/o-paradoxo-da-ia-quanto-mais-poderosa-ela-fica-mais-valiosa-a-confianca-humana-se-torna/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-02T03:08-03:00"
+  },
+  {
+   "title": "O recurso mais poderoso do ChatGPT é também o menos usado",
+   "dek": "Uma função pouco explorada consegue transformar uma pergunta complexa em uma investigação completa, com fontes, análises e um relatório organizado",
+   "url": "https://exame.com/inteligencia-artificial/o-recurso-mais-poderoso-do-chatgpt-e-tambem-o-menos-usado/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-02T02:08-03:00"
+  },
+  {
+   "title": "Quem decide o que a IA publica? Por dentro da rede social de agentes comprada pela Meta",
+   "dek": "Sete meses após compra pela Meta, Moltbook troca debates existenciais por segurança e engenharia, em cenário dominado por alta automação e poucas contas",
+   "url": "https://exame.com/inteligencia-artificial/quem-decide-o-que-a-ia-publica-por-dentro-da-rede-social-de-agentes-comprada-pela-meta/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-02T02:01-03:00"
+  }
+ ]
+}

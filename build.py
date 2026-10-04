@@ -5,7 +5,7 @@ Pulls public RSS feeds, keeps AI stories from the last ~30h, ranks them,
 and writes data/days/YYYY-MM-DD.json, data/index.json and feed.xml.
 Standard library only, so the GitHub Action needs no installs.
 """
-import html, json, os, re, sys, unicodedata, urllib.request
+import gzip, html, json, os, re, sys, unicodedata, urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import format_datetime, parsedate_to_datetime
@@ -59,7 +59,10 @@ NS = {"atom": "http://www.w3.org/2005/Atom"}
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Mural daily ai journal; +https://github.com)"})
     with urllib.request.urlopen(req, timeout=20) as r:
-        return r.read()
+        data = r.read()
+        if r.headers.get("Content-Encoding", "").lower() == "gzip" or data[:2] == b"\x1f\x8b":
+            data = gzip.decompress(data)
+        return data
 
 
 def clean(text):
@@ -198,10 +201,12 @@ def main():
     for name, url, lang, weight, ai_only in FEEDS:
         try:
             raw = fetch(url)
+            feed_items = list(items(raw))
         except Exception as e:
             errors.append(f"{name}: {e}")
+            print(f"feed failed, skipping: {name} ({url}): {e}", file=sys.stderr)
             continue
-        for title, link, desc, pub in items(raw):
+        for title, link, desc, pub in feed_items:
             title = clean(title)
             d = parse_date(pub)
             if not title or not link or not d or d < cutoff or d > now + timedelta(hours=1):
@@ -260,3 +265,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

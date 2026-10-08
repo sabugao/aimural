@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-08",
+ "generated": "2026-10-08T07:15-03:00",
+ "stories": [
+  {
+   "title": "SpaceX busca US$ 40 bilhões para comprar chips da Nvidia",
+   "dek": "A SpaceX , empresa de foguetes e inteligência artificial de Elon Musk , busca levantar US$ 40 bilhões (US$ 40 bilhões) para comprar chips da Nvidia , ampliando sua aposta na tecnologia avançada da fabricante.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/spacex-busca-us-40-bilhoes-para-comprar-chips-da-nvidia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-07T11:31-03:00"
+  },
+  {
+   "title": "Everything announced at Microsoft’s Surface Laptop Ultra event",
+   "dek": "Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco.",
+   "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-07T15:42-03:00"
+  },
+  {
+   "title": "Google rolls out improved SynthID AI content detector, now available globally",
+   "dek": "The new SynthID website can now identify AI content from Google, OpenAI, and more.",
+   "url": "https://arstechnica.com/ai/2026/10/google-rolls-out-improved-synthid-ai-content-detector-now-available-globally/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-10-07T11:00-03:00"
+  },
+  {
+   "title": "Microsoft event debuts new AI-friendly hardware and Windows changes",
+   "dek": "Get ready for more AI in your Windows and more AI on the desktop.",
+   "url": "https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-10-07T21:00-03:00"
+  },
+  {
+   "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
+   "dek": "The research found that important guardrails for teens using ChatGPT often failed.",
+   "url": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-10-07T17:34-03:00"
+  },
+  {
+   "title": "Sam Altman says AI will make ‘bad things’ happen. Exhibit A: needless death | Moustafa Bayoumi",
+   "dek": "AI is already implicated in violent deaths and nearly started world war three.",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/08/ai-death-war-sam-altman",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-08T07:00-03:00"
+  },
+  {
+   "title": "‘Dystopian’: Co-op becomes latest firm to put staff under AI surveillance",
+   "dek": "Whistleblower says recording and analysis of all probate calls in Co-op Legal Services is oppressive The Co-op has become the latest employer to place workers under AI surveillance with an automated l",
+   "url": "https://www.theguardian.com/technology/2026/oct/08/co-op-legal-services-ai-customer-phone-call-surveillance",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-08T06:00-03:00"
+  },
+  {
+   "title": "‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay",
+   "dek": "Refugee gig workers for tech companies don’t know how much they’ll be paid – if AI hasn’t already taken their jobs In a portable building in Kakuma, a refugee camp near Kenya ’s northern border with S",
+   "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-08T06:00-03:00"
+  },
+  {
+   "title": "AI breakthroughs in robotics won’t change your life any time soon",
+   "dek": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live.",
+   "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-10-08T06:00-03:00"
+  },
+  {
+   "title": "Building a safer path to autonomous industrial AI",
+   "dek": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
+   "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-10-08T05:17-03:00"
+  },
+  {
+   "title": "O efeito \"burnout de IA\": por que quem usa a ferramenta está trabalhando mais horas",
+   "dek": "A promessa de ganhar tempo pode acabar criando novas cobranças, mais tarefas e jornadas maiores para quem incorporou a tecnologia à rotina",
+   "url": "https://exame.com/inteligencia-artificial/o-efeito-burnout-de-ia-por-que-quem-usa-a-ferramenta-esta-trabalhando-mais-horas/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-08T03:03-03:00"
+  },
+  {
+   "title": "Sêniores + IA: como profissionais experientes usam a tecnologia para multiplicar entregas",
+   "dek": "Experiência acumulada pode ganhar outra escala quando novas tecnologias entram na rotina de trabalho",
+   "url": "https://exame.com/inteligencia-artificial/seniores-ia-como-profissionais-experientes-usam-a-tecnologia-para-multiplicar-entregas/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-08T02:02-03:00"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-21",
+ "generated": "2026-10-21T11:55-03:00",
+ "stories": [
+  {
+   "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+   "dek": "The U.S. has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+   "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-10-20T10:07-03:00"
+  },
+  {
+   "title": "OpenAI says an AI agent lied about disabling its safety monitoring system",
+   "dek": "OpenAI disclosed a pair of safety incidents that involved AI agents weakening their safety monitoring systems during internal coding tasks.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015316/openai-ai-agent-disabling-monitoring-systems",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-21T10:57-03:00"
+  },
+  {
+   "title": "A Design Flaw in Share Links Exposes Users’ Personal Conversations With Meta’s Muse",
+   "dek": "The company is suspending the feature after security researchers discovered how easy it was to access sensitive information shared with the AI assistant.",
+   "url": "https://www.wired.com/story/a-design-flaw-in-share-links-exposes-users-personal-conversations-with-meta-muse/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-10-21T09:35-03:00"
+  },
+  {
+   "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+   "dek": "On Tuesday, US District Judge Zachary Bluestone dismissed the lawsuit Ann Altman filed last year alleging that her brother, OpenAI CEO Sam Altman, had sexually abused her throughout her childhood.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-20T20:04-03:00"
+  },
+  {
+   "title": "ChatGPT ganha pasta protegida por senha e biometria para esconder segredos",
+   "dek": "A OpenAI anunciou o lançamento de chats bloqueados no ChatGPT .",
+   "url": "https://canaltech.com.br/inteligencia-artificial/chatgpt-ganha-pasta-protegida-por-senha-e-biometria-para-esconder-segredos/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-10-21T11:08-03:00"
+  },
+  {
+   "title": "Anthropic registra prejuízo líquido de mais de US$ 80 bi no primeiro semestre, diz agência",
+   "dek": "O prejuízo líquido da Anthropic aumentou drasticamente para US$ 80,7 bilhões (R$ 404,63 bilhões) no primeiro semestre deste ano, em grande parte devido a um aumento no valor justo dos títulos conversí",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/anthropic-registra-prejuizo-liquido-de-mais-de-us-80-bi-no-primeiro-semestre-diz-agencia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-21T10:37-03:00"
+  },
+  {
+   "title": "Europe Wants Data Centers. Its Climate Goals Are Getting in the Way",
+   "dek": "A plan to funnel the heat given off by data centers into nearby homes has run aground in Germany.",
+   "url": "https://www.wired.com/story/europe-data-centers-climate-change/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-10-21T05:30-03:00"
+  },
+  {
+   "title": "OpenEvidence: a IA de US$ 15 bilhões que ganha espaço nos consultórios dos EUA",
+   "dek": "Empresa afirma alcançar 65% dos médicos americanos e avança nos hospitais, enquanto pesquisas discutem limites das respostas e da avaliação clínica",
+   "url": "https://exame.com/inteligencia-artificial/openevidence-a-ia-de-us-15-bilhoes-que-ganha-espaco-nos-consultorios-dos-eua/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-10-21T08:00-03:00"
+  },
+  {
+   "title": "Spotify faz faxina e apaga mais de 75 milhões de músicas falsas feitas por IA",
+   "dek": "O Spotify anunciou a remoção de mais de 75 milhões de faixas de sua plataforma por violações graves ou repetidas das regras contra spam.",
+   "url": "https://canaltech.com.br/inteligencia-artificial/spotify-faz-faxina-e-apaga-mais-de-75-milhoes-de-musicas-falsas-feitas-por-ia/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-10-21T10:31-03:00"
+  },
+  {
+   "title": "AI Guardrails Aren’t Stopping Criminal Hackers",
+   "dek": "Hackers around the world are all-in on using agentic AI to wage attacks—and manipulating tools like Anthropic’s Claude to help them carry out their crimes.",
+   "url": "https://www.wired.com/story/ai-guardrails-arent-stopping-criminal-hackers/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-10-21T11:00-03:00"
+  },
+  {
+   "title": "AI promises productivity, but for managers, it’s mostly a headache for now",
+   "dek": "More than 50% of managers say they're finding it harder to evaluate employees' work after adopting AI, according to a new survey.",
+   "url": "https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-10-21T11:00-03:00"
+  },
+  {
+   "title": "Google’s more personalized Gemini AI is heading to your car",
+   "dek": "Google is bringing Personal Intelligence to Gemini AI in your car.",
+   "url": "https://www.theverge.com/tech/1014999/google-gemini-ai-cars-android-auto",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-20T19:11-03:00"
+  }
+ ]
+}

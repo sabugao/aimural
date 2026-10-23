@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-23",
+ "generated": "2026-10-23T11:43-03:00",
+ "stories": [
+  {
+   "title": "Microsoft diz que sua IA superou médicos em testes de diagnóstico",
+   "dek": "Segundo a empresa, ferramenta foi mais de duas vezes mais precisa que médicos generalistas ao analisar mais de 300 casos complexos; próximo teste será na triagem de pacientes em pronto-socorro.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/10/23/microsoft-diz-que-sua-ia-superou-medicos-em-testes-de-diagnostico.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-10-23T11:16-03:00"
+  },
+  {
+   "title": "Can AI really predict cancer survival better than a doctor? I have my doubts | Devi Sridhar",
+   "dek": "Take a selfie to see how healthy you are: the idea is enticing and this new research is promising.",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/23/ai-cancer-survival-doctor-selfie-health-research",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-23T04:00-03:00"
+  },
+  {
+   "title": "Uber aposta tudo em IA e \"força\" todos os seus 30 mil funcionários a usarem ChatGPT Work",
+   "dek": "A Uber anunciou, nesta quinta-feira (22), que vai disponibilizar o ChatGPT Work para mais de 30 mil funcionários em todo o mundo .",
+   "url": "https://canaltech.com.br/mercado/uber-aposta-tudo-em-ia-e-forca-todos-os-seus-30-mil-funcionarios-a-usarem-chatgpt-work/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-10-23T11:02-03:00"
+  },
+  {
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "dek": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+   "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-10-23T09:24-03:00"
+  },
+  {
+   "title": "Retro gaming is being overrun with AI",
+   "dek": "Retro video games are everywhere lately - especially in places where they aren't supposed to be.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-23T09:00-03:00"
+  },
+  {
+   "title": "Japão diz que simulará ataques hackers com IA após descoberta de falha que afetou o mundo",
+   "dek": "O Japão informou nesta sexta-feira (23) que criará uma equipe para simular ataques cibernéticos com o uso de inteligência artificial, a fim de identificar vulnerabilidades em sistemas tecnológicos, en",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://www1.folha.uol.com.br/tec/2026/10/japao-diz-que-simulara-ataques-hackers-com-ia-apos-descoberta-de-falha-que-afetou-o-mundo.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-23T09:10-03:00"
+  },
+  {
+   "title": "Com adiamentos, investidores de IA ficam restritos à IPO da Anthropic",
+   "dek": "O calendário de IPOs (ofertas públicas iniciais de ações) do setor de tecnologia , que antes era bastante robusto, agora se resume apenas à Anthropic .",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/com-adiamentos-investidores-de-ia-ficam-restritos-a-ipo-da-anthropic.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-23T08:06-03:00"
+  },
+  {
+   "title": "The Indian workers filming their work to train AI",
+   "dek": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+   "url": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-10-23T05:04-03:00"
+  },
+  {
+   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+   "dek": "Datacenter and chip costs fueled sharp decrease in AI sector although non-AI stocks still had a strong showing The latest shudder for stocks in the AI industry pulled markets lower worldwide on Thursd",
+   "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-22T18:50-03:00"
+  },
+  {
+   "title": "Designing an AI serving harness built to last",
+   "dek": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it.",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-10-22T18:17-03:00"
+  },
+  {
+   "title": "The Foundations of Scalable AI",
+   "dek": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one.",
+   "url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-10-22T15:48-03:00"
+  },
+  {
+   "title": "Meta’s AI could still scrape news sites, legal experts say",
+   "dek": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address…",
+   "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-10-22T17:32-03:00"
+  }
+ ]
+}

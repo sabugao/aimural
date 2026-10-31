@@ -1,0 +1,102 @@
+{
+ "date": "2026-10-31",
+ "generated": "2026-10-31T12:37-03:00",
+ "stories": [
+  {
+   "title": "OpenAI vai limitar acesso de adolescentes a informações sobre armas no ChatGPT",
+   "dek": "Empresa também poderá suspender temporariamente contas após conversas recorrentes sobre violência e pretende reforçar alertas aos pais.",
+   "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/10/30/openai-chatgpt-informacoes-armas.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-10-30T15:08-03:00"
+  },
+  {
+   "title": "'Slopaganda': como a IA virou arma eleitoral nos EUA e movimentou mais de US$ 137 milhões",
+   "dek": "Levantamento identificou 220 anúncios políticos produzidos com inteligência artificial, mas apenas 27% informavam o uso da tecnologia.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/10/31/slopaganda-como-a-ia-virou-arma-eleitoral-nos-eua-e-movimentou-mais-de-us-137-milhoes.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-10-31T03:00-03:00"
+  },
+  {
+   "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "dek": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+   "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-10-30T17:34-03:00"
+  },
+  {
+   "title": "Google’s first data center satellite is online and writing poetry",
+   "dek": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+   "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-10-30T14:00-03:00"
+  },
+  {
+   "title": "Google joins OpenAI and Anthropic in promising new scraping controls",
+   "dek": "Google, OpenAI, Anthropic and Microsoft pledge to support a new common signal for robots.txt that blocks scraping for AI training.",
+   "url": "https://www.engadget.com/2303225/google-openai-anthropic-ai-crawling-controls/",
+   "source": "Engadget",
+   "lang": "en",
+   "published": "2026-10-31T07:34-03:00"
+  },
+  {
+   "title": "Is AI your new wingman? How chatbots are transforming dating",
+   "dek": "Almost 40% of British singles have used AI for romantic advice, from writing messages to assessing potential partners After Sam’s ex joked that her sister found him ugly, he turned to AI.",
+   "url": "https://www.theguardian.com/lifeandstyle/2026/oct/31/ai-your-wingman-chatbots-transforming-dating",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-31T09:00-03:00"
+  },
+  {
+   "title": "Aprenda a usar o YouTube com Gemini Notebook para acelerar seus estudos",
+   "dek": "Assistir a vídeos longos só para encontrar uma informação pode tomar muito tempo.",
+   "url": "https://canaltech.com.br/inteligencia-artificial/como-usar-youtube-com-gemini-notebook-para-estudar/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-10-31T11:00-03:00"
+  },
+  {
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "dek": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-10-30T18:09-03:00"
+  },
+  {
+   "title": "OpenAI reduz US$ 10 bi da meta de financiamento em meio a preocupações com setor de IA",
+   "dek": "A OpenAI reduziu em US$ 10 bilhões a meta de sua mais recente rodada de captação enquanto corre para fechar um acordo ofuscado por uma onda de vendas de ações de empresas de inteligência artificial no",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/10/openai-reduz-us-10-bi-da-meta-de-financiamento-em-meio-a-preocupacoes-com-setor-de-ia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-10-31T11:22-03:00"
+  },
+  {
+   "title": "Relying on AI is rotting your brain. But here’s what you can do about it | Carly Dober",
+   "dek": "Each new tech product is designed to make our lives easier and keep us mindlessly entertained.",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/31/ai-rely-brain-new-tech-product-lives-boredom",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-10-31T05:00-03:00"
+  },
+  {
+   "title": "Basically no one is using AI agents for their DoorDash orders",
+   "dek": "But it's still early days for the relatively new e-commerce use case.",
+   "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-10-30T16:30-03:00"
+  },
+  {
+   "title": "Spooky New Infostealer Malware Uses AI to ‘Autodox’ Victims",
+   "dek": "Named “Volta-Autodoxer,” the recently uncovered malware uses AI tools to collect troves of data about victims, from login credentials and credit card numbers to Discord sessions and UberEats receipts.",
+   "url": "https://www.wired.com/story/kernel-panic-volta-autodoxer-ai-infostealer-malware/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-10-31T09:00-03:00"
+  }
+ ]
+}

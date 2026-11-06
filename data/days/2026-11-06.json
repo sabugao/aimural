@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-06",
+ "generated": "2026-11-06T14:14-03:00",
+ "stories": [
+  {
+   "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
+   "dek": "Asian and European markets follow Wall Street with sharp fall as FTSE is down 1.9% Business live – latest updates European stock markets have fallen sharply as a rout in US tech stocks spread across t",
+   "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-06T12:48-03:00"
+  },
+  {
+   "title": "OpenAI is stepping back from NDAs for data center projects",
+   "dek": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center proj",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-05T21:37-03:00"
+  },
+  {
+   "title": "Protesters break into Microsoft data center site in Amsterdam",
+   "dek": "Protesters have broken into a construction site of a new Microsoft data center in Amsterdam this morning.",
+   "url": "https://www.theverge.com/news/1028549/protesters-microsoft-data-center-site-amsterdam",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-06T08:55-03:00"
+  },
+  {
+   "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+   "dek": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+   "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-05T16:12-03:00"
+  },
+  {
+   "title": "AI stocks climb after trillions wiped from market values",
+   "dek": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+   "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-06T14:03-03:00"
+  },
+  {
+   "title": "Por que a corrida pela IA virou motivo de preocupação e fez ações despencarem? Gigantes perderam US$ 1 trilhão em um dia",
+   "dek": "Investidores questionam quando os bilhões de dólares gastos pelas empresas de tecnologia no desenvolvimento da inteligência artificial vão se transformar em lucro; perdas das sete maiores companhias s",
+   "url": "https://g1.globo.com/economia/noticia/2026/11/06/acoes-ia-globais.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-06T09:43-03:00"
+  },
+  {
+   "title": "Nubank demite funcionários após IA reduzir fila de fraudes",
+   "dek": "Automação teria diminuído em 80% as reclamações sobre golpes financeiros.",
+   "url": "https://tecnoblog.net/noticias/nubank-demite-funcionarios-apos-ia-reduzir-fila-de-fraudes/",
+   "source": "Tecnoblog",
+   "lang": "pt",
+   "published": "2026-11-06T10:09-03:00"
+  },
+  {
+   "title": "Airbnb is working on an AI travel agent",
+   "dek": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today.",
+   "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-05T21:06-03:00"
+  },
+  {
+   "title": "Reações negativas em relação à IA podem atrasar IPO da Anthropic, dizem potenciais investidores",
+   "dek": "Potenciais investidores do tão aguardado IPO (oferta pública inicial) da Anthropic estão levantando dúvidas sobre se a startup de inteligência artificial conseguirá realizar a programação de apresenta",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/reacoes-negativas-em-relacao-a-ia-podem-atrasar-ipo-da-anthropic-dizem-potenciais-investidores.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-06T13:07-03:00"
+  },
+  {
+   "title": "Japão anuncia pacote emergencial de cibersegurança após onda de ataques",
+   "dek": "Plano prevê investimento de US$ 63 milhões (R$ 345,24 milhões), uso de inteligência artificial para identificar vulnerabilidades em redes e criação de equipes especializadas para apoiar empresas afeta",
+   "url": "https://g1.globo.com/tecnologia/ciberseguranca/noticia/2026/11/06/japao-anuncia-pacote-emergencial-de-ciberseguranca-apos-onda-de-ataques.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-06T12:10-03:00"
+  },
+  {
+   "title": "Claude can now analyze your spending with its new Personal Finance tool",
+   "dek": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+   "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-05T15:00-03:00"
+  },
+  {
+   "title": "US tech stocks recovering on Wall Street after worst day in 19 months – business live",
+   "dek": "European and Asia-Pacific markets slide after Wall Street rout, while latest US jobs report beats forecasts Could the AI bubble burst after Democrats’ midterms sweep?",
+   "url": "https://www.theguardian.com/business/live/2026/nov/06/global-stocks-tumble-ai-panic-markets-democrats-midterms-success-jobs-oil-dollar-latest-news-updates",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-06T14:12-03:00"
+  }
+ ]
+}

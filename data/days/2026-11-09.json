@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-09",
+ "generated": "2026-11-09T17:30-03:00",
+ "stories": [
+  {
+   "title": "Jensen Huang’s image has been shattered. Could he pushed out at Nvidia?",
+   "dek": "After the co-founder of the chipmaker had an affair with an alleged Chinese spy, its board faces a difficult decision For more than 30 years, Jensen Huang has been the seemingly unshakable public…",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/jensen-huang-image-nvidia",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-09T17:27-03:00"
+  },
+  {
+   "title": "Silicon Valley and Trump rally behind Nvidia CEO after his affair with alleged Chinese spy",
+   "dek": "Elon Musk and other finance moguls defend Jensen Huang after he admitted to the affair in an email to employees Nvidia’s board needs to do some succession planning – sharpish Donald Trump , Elon Musk ",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/nvidia-jensen-huang-affair-trump-musk",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-09T15:58-03:00"
+  },
+  {
+   "title": "Google lança novos chips de IA e amplia disputa com a Nvidia",
+   "dek": "O Google , apresentou nesta segunda-feira (9) duas novas versões de suas unidades de processamento tensorial desenvolvidas internamente, intensificando o desafio ao domínio da Nvidia no mercado em fra",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/google-lanca-novos-chips-de-ia-e-amplia-disputa-com-a-nvidia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-09T16:06-03:00"
+  },
+  {
+   "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+   "dek": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+   "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-09T15:00-03:00"
+  },
+  {
+   "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+   "dek": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-09T16:00-03:00"
+  },
+  {
+   "title": "Cyber-attack on French supermarket freezers has geopolitical context",
+   "dek": "‘Not particularly complex’ defrosting hack has been attributed to Iran, with presumption it is linked to others across Europe Iranian hackers like to send a message.",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/cyber-attack-french-supermarket-freezers-iran-europe",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-09T16:40-03:00"
+  },
+  {
+   "title": "The backlash about data centers might really just be about electricity",
+   "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
+   "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-09T16:35-03:00"
+  },
+  {
+   "title": "Como estouro de bolha da IA pode revelar os nossos segredos mais bem guardados",
+   "dek": "O colapso da Character.ai revela um risco pouco discutido da IA: as empresas que detêm os seus segredos podem não sobreviver para sempre.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/11/09/como-estouro-de-bolha-da-ia-pode-revelar-os-nossos-segredos-mais-bem-guardados.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-09T07:28-03:00"
+  },
+  {
+   "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+   "dek": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI.",
+   "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-09T14:05-03:00"
+  },
+  {
+   "title": "'Já tirei R$ 5 mil no mês': como funciona o trabalho de vender imagens de tarefas domésticas para IA e quais são os riscos",
+   "dek": "Nas redes sociais, microinfluenciadores mostram como ganhar dinheiro gravando tarefas domésticas para treinar sistemas de inteligência artificial.",
+   "url": "https://g1.globo.com/trabalho-e-carreira/noticia/2026/11/09/como-funciona-o-trabalho-de-vender-imagens-de-tarefas-domesticas-para-ia.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-09T05:00-03:00"
+  },
+  {
+   "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+   "dek": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time p",
+   "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-09T16:09-03:00"
+  },
+  {
+   "title": "Disney fecha acordo com Adobe para levar IA a parques",
+   "dek": "Parceria prevê modelos próprios de IA para acelerar projetos criativos em parques, cruzeiros, estúdios e conteúdo esportivo",
+   "url": "https://exame.com/tecnologia/disney-fecha-acordo-com-adobe-para-levar-ia-a-parques/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-09T12:24-03:00"
+  }
+ ]
+}

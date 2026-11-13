@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-13",
+ "generated": "2026-11-13T14:33-03:00",
+ "stories": [
+  {
+   "title": "Let’s talk about Jensen Huang’s many affairs!",
+   "dek": "Usually, we'd be offering to answer your questions about a news event, but honestly we don't really have any answers about what the hell is going on over at Nvidia.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032339/lets-talk-about-the-nvidia-shitshow",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-13T09:00-03:00"
+  },
+  {
+   "title": "Bitcoin despenca aos US$ 69 mil com aversão a risco após renúncia de CEO da Nvidia",
+   "dek": "Criptomoedas registram fortes perdas diante de possível aumento de juros nos EUA, crise na Nvidia e onda de ataques hackers",
+   "url": "https://exame.com/future-of-money/bitcoin-hoje-13-11-2026/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-13T07:55-03:00"
+  },
+  {
+   "title": "Pane deixa Outlook, Teams e outros serviços da Microsoft fora do ar por mais de 16 horas",
+   "dek": "Serviços da Microsoft como o email Outlook, Teams, SharePoint, Copilot, Planner e Power BI, além de outras ferramentas, estão fora do ar há mais de 16 horas.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://www1.folha.uol.com.br/tec/2026/11/usuarios-relatam-falhas-no-outlook-nesta-quinta-feira-12.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-12T15:10-03:00"
+  },
+  {
+   "title": "Google lança modelo de IA veloz e eficiente; conheça o Gemini 4 Hydrogen",
+   "dek": "O Google anunciou o Gemini 4 Hydrogen , novo modelo de inteligência artificial desenvolvido para acelerar tarefas de programação e fluxos de trabalho executados por agentes de IA.",
+   "url": "https://canaltech.com.br/inteligencia-artificial/google-lanca-modelo-de-ia-veloz-e-eficiente-conheca-o-gemini-4-hydrogen/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-11-13T13:33-03:00"
+  },
+  {
+   "title": "Você confia? Agente de IA da OpenAI, ChatGPT Wallet fará compras pelo usuário e promete segurança",
+   "dek": "Mas a nova ferramenta não chega para todo mundo neste primeiro momento: por enquanto, estará disponível nos Estados Unidos para assinantes do ChatGPT Pro O post Você confia?",
+   "url": "https://olhardigital.com.br/2026/11/13/inteligencia-artificial/voce-confia-agente-de-ia-da-openai-chatgpt-wallet-fara-compras-pelo-usuario-e-promete-seguranca/",
+   "source": "Olhar Digital",
+   "lang": "pt",
+   "published": "2026-11-13T13:17-03:00"
+  },
+  {
+   "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+   "dek": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
+   "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-12T17:16-03:00"
+  },
+  {
+   "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
+   "dek": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
+   "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-13T12:40-03:00"
+  },
+  {
+   "title": "United Airlines blocks AI agents from booking flights, citing cybersecurity risks",
+   "dek": "The airline said it will not allow customers to use AI agents to book flights and manage reservations.",
+   "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-12T14:17-03:00"
+  },
+  {
+   "title": "Muse can now place calls to US businesses — if you pay",
+   "dek": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
+   "url": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-12T19:22-03:00"
+  },
+  {
+   "title": "‘Ahead of his time’: AI helps unlock discoveries hidden in notebooks of man who transformed maths",
+   "dek": "Kurt Gödel left 1,009 pages of densely written text – much of it in an obsolete shorthand – which is now said to contain hundreds of proved theorems The Austrian logician Kurt Gödel was one of the mos",
+   "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-13T13:38-03:00"
+  },
+  {
+   "title": "AI is \"the most likely reason\" you'll die, OpenAI board member warns",
+   "dek": "Researcher traces a path from AI reward hacking to potential human extinction.",
+   "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-11-13T14:25-03:00"
+  },
+  {
+   "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+   "dek": "Normally, the products I test don't offer to help me write up my experience with them.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-13T11:00-03:00"
+  }
+ ]
+}

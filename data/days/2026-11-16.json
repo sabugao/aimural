@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-16",
+ "generated": "2026-11-16T17:03-03:00",
+ "stories": [
+  {
+   "title": "Trump backs calls for reinstatement of Jensen Huang as Nvidia CEO",
+   "dek": "As tech industry pushes for return, US president says he thinks Huang ‘learned a big lesson’ Donald Trump has expressed support for the return of Jensen Huang as the chief executive of Nvidia, joining",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/trump-backs-calls-for-reinstatement-of-jensen-huang-as-nvidia-ceo",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-16T15:30-03:00"
+  },
+  {
+   "title": "Google Maps can now create trip itineraries for you",
+   "dek": "Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop.",
+   "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-16T11:00-03:00"
+  },
+  {
+   "title": "EUA vão restringir acesso da China a chips de IA; medida inclui Brasil",
+   "dek": "A medida busca fechar brechas nas restrições americanas à China e impedir que empresas do país usem data centers instalados em terceiros países para acessar os componentes e treinar modelos de…",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/11/16/eua-vao-restringir-acesso-da-china-a-chips-de-ia-medida-inclui-brasil.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-16T11:59-03:00"
+  },
+  {
+   "title": "Califórnia processa OpenAI por ataques cibernéticos realizados por IA contra a Hugging Face e outras empresas",
+   "dek": "Ação acusa empresa de colocar a segurança pública em risco ao desenvolver sistemas de IA sem proteção e fiscalização adequadas; caso envolve ataque hacker realizado por agente autônomo durante teste…",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/11/16/opne-ai-ataque-california.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-16T15:47-03:00"
+  },
+  {
+   "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+   "dek": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features,…",
+   "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-16T16:24-03:00"
+  },
+  {
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "dek": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-16T16:23-03:00"
+  },
+  {
+   "title": "AI models ‘weak and fallible’ on climate science, UN-backed study reports",
+   "dek": "While mostly accurate describing simple facts, models pivoted to denial and wrong answers when challenged Cop31 live – latest updates Artificial intelligence models can quickly turn into climate crisi",
+   "url": "https://www.theguardian.com/environment/2026/nov/16/ai-models-fallible-denial-climate-science-unesco-cop31",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-16T13:05-03:00"
+  },
+  {
+   "title": "Building trustworthy AI by fencing it in, not predicting it",
+   "dek": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them.",
+   "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-16T13:04-03:00"
+  },
+  {
+   "title": "Albanese treads tightrope in upcoming Trump meeting, wanting Indo-Pacific engagement and end to Iran and Ukraine wars",
+   "dek": "Quad leaders’ summit in Philippines is Trump’s first, as Australia joins US and Japan to protect AI technologies in face of China efforts to dominate Get our daily political email , free app or daily ",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/16/albanese-treads-tightrope-in-upcoming-trump-meeting-wanting-indo-pacific-engagement-and-end-to-iran-and-ukraine-wars",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-16T06:40-03:00"
+  },
+  {
+   "title": "FBI says Artex AI open-source hacking tool used to breach networks in ‘under three hours’",
+   "dek": "The FBI says that the open-source hacking tool was used in cyberattacks targeting a U.S.",
+   "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-16T14:36-03:00"
+  },
+  {
+   "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+   "dek": "Belfort claims his AI sales voice can already close deals almost as well as the best human salespeople, and he thinks it will catch up in a year.",
+   "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-16T14:10-03:00"
+  },
+  {
+   "title": "OpenAI will embed safety researchers to investigate AI subversion",
+   "dek": "OpenAI will embed six Apollo Research evaluators to investigate whether its AI models engage in subversive behavior, but restrictions on access and disclosure raise questions about their independence.",
+   "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-16T14:02-03:00"
+  }
+ ]
+}

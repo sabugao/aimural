@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-17",
+ "generated": "2026-11-17T15:58-03:00",
+ "stories": [
+  {
+   "title": "Jensen Huang says he would be ‘honored’ to return to Nvidia as CEO",
+   "dek": "Huang resigned last week over affairs with an alleged Chinese spy and multiple employees who reported to him Jensen Huang said he would be willing to return to Nvidia as CEO in his first remarks since",
+   "url": "https://www.theguardian.com/technology/2026/nov/17/nvidia-jensen-huang-statement",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-17T14:35-03:00"
+  },
+  {
+   "title": "China diz que restrição de chips dos EUA é exemplo de coerção e promete medidas necessárias",
+   "dek": "A China afirmou nesta terça-feira (17) que adotará as \"medidas necessárias\" para defender os seus interesses após os EUA aumentarem as restrições sobre as exportações de chips avançados de IA para o p",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/china-diz-que-restricao-de-chips-dos-eua-e-exemplo-de-coercao-e-promete-medidas-necessarias.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-17T10:21-03:00"
+  },
+  {
+   "title": "California sues OpenAI over safety concerns after rogue agent hacking",
+   "dek": "Lawsuit stems from earlier incident where tech company’s products hacked into open-source platform Hugging Face California sued OpenAI on Monday, accusing the artificial intelligence titan of developi",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/california-openai-rogue-agent-hacking-lawsuit",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-16T18:41-03:00"
+  },
+  {
+   "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+   "dek": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly.",
+   "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-16T16:23-03:00"
+  },
+  {
+   "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+   "dek": "Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use.",
+   "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-17T15:58-03:00"
+  },
+  {
+   "title": "Research Reports",
+   "dek": "To access a report, click on the corresponding image below.",
+   "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-17T11:39-03:00"
+  },
+  {
+   "title": "Apple impõe limite de uso diário na nova Siri e exige assinatura do iCloud+",
+   "dek": "A Apple vai colocar limites diários para o uso gratuito de recursos da Siri AI e do Apple Intelligence .",
+   "url": "https://canaltech.com.br/apps/apple-impoe-limite-de-uso-diario-na-nova-siri-e-exige-assinatura-do-icloud/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-11-17T14:12-03:00"
+  },
+  {
+   "title": "IA e mais 4 competências para trabalhar em TI para empresas do exterior",
+   "dek": "Profissionais latino-americanos que priorizam IA e automação nos estudos registram renda média de US$ 5.114 por mês em pesquisa da Higlobe",
+   "url": "https://exame.com/inteligencia-artificial/ia-competencias-trabalhar-ti-empresas-exterior/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-17T11:11-03:00"
+  },
+  {
+   "title": "Paul Kelly pleads for Albanese to ‘show some backbone’ over AI as creatives campaign for copyright protections",
+   "dek": "Music legend is joined by Jimmy Barnes and Peter Garrett in backing Not AI’s To Take campaign ahead of Aria awards Get our breaking news email , free app or daily news podcast Australia’s creative com",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/paul-kelly-albanese-ai-copyright-protections-creatives-campaign",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-17T11:00-03:00"
+  },
+  {
+   "title": "Google Maps ganha IA que monta roteiros de viagem, busca em listas e agenda serviços",
+   "dek": "O Google anunciou novos recursos de inteligência artificial (IA) com Gemini para o Ask Maps , ferramenta integrada ao Google Maps.",
+   "url": "https://canaltech.com.br/inteligencia-artificial/google-maps-ganha-ia-que-monta-roteiros-de-viagem-busca-em-listas-e-agenda-servicos/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-11-17T13:09-03:00"
+  },
+  {
+   "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+   "dek": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-16T17:41-03:00"
+  },
+  {
+   "title": "As decision model use skyrockets, is customization the next frontier?",
+   "dek": "Sqwish Labs has a new wrinkle on the decision model: Train it with your own data to max its capabilities.",
+   "url": "https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-17T15:10-03:00"
+  }
+ ]
+}

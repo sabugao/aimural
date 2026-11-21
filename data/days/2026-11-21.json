@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-21",
+ "generated": "2026-11-21T14:10-03:00",
+ "stories": [
+  {
+   "title": "Matemático da Anthropic afirma ter provado a Hipótese de Riemann, um dos mais famosos enigmas da matemática",
+   "dek": "Solução teria sido possível a partir do uso do chatbot Claude, desenvolvido pela companhia.",
+   "url": "https://g1.globo.com/educacao/noticia/2026/11/20/matematico-da-anthropic-afirma-ter-provado-a-hipotese-de-riemann-um-dos-mais-famosos-enigmas-da-matematica.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-20T20:11-03:00"
+  },
+  {
+   "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+   "dek": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+   "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-20T19:42-03:00"
+  },
+  {
+   "title": "Saída de Jensen Huang da Nvidia pode frear a onda da IA?",
+   "dek": "O ex-CEO da fabricante de chips é uma das figuras centrais da expansão da inteligência artificial.",
+   "url": "https://g1.globo.com/inovacao/noticia/2026/11/21/saida-de-jensen-huang-da-nvidia-pode-frear-a-onda-da-ia.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-21T03:00-03:00"
+  },
+  {
+   "title": "Ações de tecnologia dos EUA desabam na pior semana desde a crise da Covid-19",
+   "dek": "As ações de tecnologia dos EUA despencaram na pior semana desde que a pandemia de Covid-19 abalou a economia global.",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/acoes-de-tecnologia-dos-eua-desabam-na-pior-semana-desde-a-crise-da-covid-19.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-21T08:00-03:00"
+  },
+  {
+   "title": "Trump threatens ban on US firms building AI data centres overseas",
+   "dek": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time.",
+   "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-20T17:54-03:00"
+  },
+  {
+   "title": "International UN talks on controlling use of autonomous weapons collapse",
+   "dek": "Week-long efforts fail to establish negotiating mandate on AI warfare after Russian ‘filibustering’ Week-long efforts to agree a negotiating mandate for a legally binding international treaty to contr",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-21T13:36-03:00"
+  },
+  {
+   "title": "How to use Gemini Notebook to turn your research into an interactive site",
+   "dek": "Gemini Notebook's newest feature can create a website with visual aids and interactive elements (just double-check its work).",
+   "url": "https://www.engadget.com/2321236/how-to-use-gemini-notebook-to-turn-your-research-into-an-interactive-site/",
+   "source": "Engadget",
+   "lang": "en",
+   "published": "2026-11-21T10:30-03:00"
+  },
+  {
+   "title": "Forget rogue robots, it’s tech billionaires and AI cricket that should really terrify us | Barney Ronay",
+   "dek": "The encroachment of artificial intelligence smells like the death of sport.",
+   "url": "https://www.theguardian.com/sport/2026/nov/20/cricket-rogue-robots-tech-billionaires-artificial-intelligence",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-20T16:00-03:00"
+  },
+  {
+   "title": "Can Anthropic afford to put safety first?",
+   "dek": "Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life.",
+   "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-21T12:00-03:00"
+  },
+  {
+   "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
+   "dek": "Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checkers, go, hearts, mahj",
+   "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-21T11:00-03:00"
+  },
+  {
+   "title": "Governança de IA: 5 que falhas podem comprometer adoção da tecnologia em empresas",
+   "dek": "A inteligência artificial já faz parte da rotina de muitas empresas, mas incorporar a tecnologia às operações é apenas uma etapa do processo.",
+   "url": "https://canaltech.com.br/inteligencia-artificial/governanca-de-ia-5-que-falhas-podem-comprometer-adocao-da-tecnologia-em-empresas/",
+   "source": "Canaltech",
+   "lang": "pt",
+   "published": "2026-11-21T10:30-03:00"
+  },
+  {
+   "title": "The Outages Are Just Getting Started",
+   "dek": "AI is forcing companies to patch their systems faster as attackers race to exploit newly discovered vulnerabilities.",
+   "url": "https://www.wired.com/story/brace-yourself-for-years-of-outage-chaos/",
+   "source": "Wired",
+   "lang": "en",
+   "published": "2026-11-21T10:00-03:00"
+  }
+ ]
+}

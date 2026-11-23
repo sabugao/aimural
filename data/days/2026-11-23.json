@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-23",
+ "generated": "2026-11-23T18:55-03:00",
+ "stories": [
+  {
+   "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
+   "dek": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
+   "url": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-23T18:23-03:00"
+  },
+  {
+   "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+   "dek": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+   "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+   "source": "Ars Technica",
+   "lang": "en",
+   "published": "2026-11-23T18:30-03:00"
+  },
+  {
+   "title": "Espionagem chinesa que mira chips de IA antecede escândalo envolvendo Nvidia",
+   "dek": "Quando a principal agência de espionagem da China atualizou suas prioridades neste ano, acrescentou um objetivo revelador: superar as barreiras ocidentais a tecnologias que Xi Jinping considera fundam",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/espionagem-chinesa-que-mira-chips-de-ia-antecede-escandalo-envolvendo-nvidia.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-23T06:00-03:00"
+  },
+  {
+   "title": "IA generativa chega a 53% da população mundial em três anos, aponta Stanford",
+   "dek": "Estudo de Stanford reúne dados de adoção, investimento e desempenho de agentes de IA e indica onde ainda faltam preparo profissional, políticas escolares e uso em escala nas empresas",
+   "url": "https://exame.com/inteligencia-artificial/ia-generativa-chega-a-53-da-populacao-mundial-em-tres-anos-aponta-stanford/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-23T15:03-03:00"
+  },
+  {
+   "title": "Orçamento de IA nas grandes empresas deve passar de 28% para 45% até 2028, aponta IDC",
+   "dek": "Pesquisa da IDC para a Microsoft com 73 C-levels indica que a fatia deve chegar a 45% até 2028, e 56% das empresas já testam ou operam agentes de IA",
+   "url": "https://exame.com/inteligencia-artificial/orcamento-de-ia-nas-grandes-empresas-deve-passar-de-28-para-45-ate-2028-aponta-idc/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-23T14:44-03:00"
+  },
+  {
+   "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+   "dek": "This story originally appeared in The Algorithm, our weekly newsletter on AI.",
+   "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-23T14:36-03:00"
+  },
+  {
+   "title": "95% das empresas brasileiras querem adotar IA agêntica, mas só 27% têm governança madura",
+   "dek": "Levantamento da Deloitte mostra que 95% das empresas brasileiras planejam adotar agentes de IA em até dois anos, mas só 27% têm governança madura",
+   "url": "https://exame.com/inteligencia-artificial/95-das-empresas-brasileiras-querem-adotar-ia-agentica-mas-so-27-tem-governanca-madura/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-23T14:28-03:00"
+  },
+  {
+   "title": "Claude AI can review pull requests and ship fixes on its own now",
+   "dek": "Anthropic is launching some new Claude AI features to help software engineers ship code.",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-23T17:00-03:00"
+  },
+  {
+   "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+   "dek": "Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage the recordings, trans",
+   "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-23T16:04-03:00"
+  },
+  {
+   "title": "AI conquered chess. What happened next should give us hope",
+   "dek": "As two 20-year-old prodigies prepare to battle in the world chess championship, the game offers a surprising lesson about AI and what it cannot replicate The upcoming world chess championship between ",
+   "url": "https://www.theguardian.com/sport/ng-interactive/2026/nov/23/chess-world-championship-ai",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-23T10:00-03:00"
+  },
+  {
+   "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+   "dek": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+   "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-23T16:14-03:00"
+  },
+  {
+   "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+   "dek": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+   "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-23T14:14-03:00"
+  }
+ ]
+}

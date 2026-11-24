@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-24",
+ "generated": "2026-11-24T17:31-03:00",
+ "stories": [
+  {
+   "title": "Tech sell-off resumes as euphoria from Jensen Huang’s Nvidia return subsides",
+   "dek": "Sell-off signals investors are bracing for further volatility in key AI sector driving economic growth worldwide Technology shares led a market retreat Tuesday as caution returned after Jensen Huang’s",
+   "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-24T15:00-03:00"
+  },
+  {
+   "title": "Tidal will start banning AI-generated music next month",
+   "dek": "Tidal is officially banning AI-generated music on December 9th.",
+   "url": "https://www.theverge.com/entertainment/1041362/tidal-ai-music-ban",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-24T14:17-03:00"
+  },
+  {
+   "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+   "dek": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+   "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-23T19:05-03:00"
+  },
+  {
+   "title": "Governo prepara modelos para acelerar compras públicas de IA em 2027",
+   "dek": "Secretaria de Governo Digital prevê divulgar os primeiros termos de referência no início do ano, com especificações técnicas para orientar os órgãos federais",
+   "url": "https://exame.com/inteligencia-artificial/governo-prepara-modelos-para-acelerar-compras-publicas-de-ia-em-2027/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-24T13:36-03:00"
+  },
+  {
+   "title": "Monte seu assistente de IA: como criar um GPT, Projeto ou Gem para tarefas repetidas",
+   "dek": "Ferramentas como ChatGPT e Gemini permitem configurar assistentes com instruções específicas, arquivos de referência e orientações para automatizar atividades recorrentes",
+   "url": "https://exame.com/inteligencia-artificial/monte-seu-assistente-de-ia-como-criar-um-gpt-projeto-ou-gem-para-tarefas-repetidas/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-24T13:33-03:00"
+  },
+  {
+   "title": "Have you downloaded Meta’s AI assistant Muse or do you plan to?",
+   "dek": "The digital butler, which can go shopping on behalf of users, is available in the US, UK and Canada.",
+   "url": "https://www.theguardian.com/technology/2026/nov/24/have-you-downloaded-metas-ai-assistant-muse-or-do-you-plan-to",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-24T09:44-03:00"
+  },
+  {
+   "title": "Treinamento em IA por função deve ganhar espaço em 2027; veja quais áreas tendem a ser prioridade",
+   "dek": "Levantamentos recentes mostram que lideranças, tecnologia, dados e áreas de negócios estão entre os focos de capacitação em inteligência artificial",
+   "url": "https://exame.com/inteligencia-artificial/treinamento-em-ia-por-funcao-deve-ganhar-espaco-em-2027-veja-quais-areas-tendem-a-ser-prioridade/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-24T14:01-03:00"
+  },
+  {
+   "title": "US attorney general dodges questions about Nvidia investigation",
+   "dek": "Nvidia's share price have fallen 7% as lawmakers demand answers about President Donald Trump's involvement in Huang's reinstatement.",
+   "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-24T15:55-03:00"
+  },
+  {
+   "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+   "dek": "There were legitimate fears before Huang's abrupt exit from Nvidia - and his return won't fix it",
+   "url": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-24T15:21-03:00"
+  },
+  {
+   "title": "Raising the stakes for enterprise networks with AI modernization",
+   "dek": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network.",
+   "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
+   "source": "MIT Technology Review",
+   "lang": "en",
+   "published": "2026-11-24T12:15-03:00"
+  },
+  {
+   "title": "David Fincher is being dragged for suspected use of AI in his latest film",
+   "dek": "Though David Fincher's fans had been eagerly anticipating The Further Mis-Adventures of Cliff Booth, early screenings of the Once Upon a Time in Hollywood sequel starring Brad Pitt have raised questio",
+   "url": "https://www.theverge.com/entertainment/1041417/david-fincher-netflix-cliff-booth-ai-interpositive",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-24T15:15-03:00"
+  },
+  {
+   "title": "Mamdani says Nvidia drama shows stock market is overly dependent on AI",
+   "dek": "New York City mayor notes ‘massive impact’ on working Americans’ lives when Jensen Huang stepped down as CEO Zohran Mamdani , New York City ’s mayor, on Monday weighed in on the corporate turbulence s",
+   "url": "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-24T11:22-03:00"
+  }
+ ]
+}

@@ -1,0 +1,102 @@
+{
+ "date": "2026-11-26",
+ "generated": "2026-11-26T16:26-03:00",
+ "stories": [
+  {
+   "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+   "dek": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+   "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "lang": "en",
+   "published": "2026-11-26T06:27-03:00"
+  },
+  {
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "dek": "A coalition of 42 state attorneys general is trying to prevent Character.AI from selling off user data as it navigates Chapter 11 bankruptcy proceedings.",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge",
+   "lang": "en",
+   "published": "2026-11-26T06:54-03:00"
+  },
+  {
+   "title": "Nvidia orienta suspensão de envio de chips para quatro países do Sudeste Asiático",
+   "dek": "A Nvidia orientou seus parceiros de fabricação a suspender o envio de servidores para quatro países do Sudeste Asiático, enquanto os EUA intensificam os controles de exportação para impedir o acesso d",
+   "url": "https://redir.folha.com.br/redir/online/tec/rss091/*https://c-level.folha.uol.com.br/ia/2026/11/nvidia-orienta-suspensao-de-envio-de-chips-para-quatro-paises-do-sudeste-asiatico.shtml",
+   "source": "Folha de S.Paulo",
+   "lang": "pt",
+   "published": "2026-11-26T08:32-03:00"
+  },
+  {
+   "title": "New York state bans AI chatbot toys for kids",
+   "dek": "New York governor Kathy Hochul has signed into law a five-year ban on the sale of AI chatbot toys.",
+   "url": "https://www.engadget.com/2328996/new-york-state-bans-ai-chatbot-toys-for-kids/",
+   "source": "Engadget",
+   "lang": "en",
+   "published": "2026-11-26T03:02-03:00"
+  },
+  {
+   "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+   "dek": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-25T11:10-03:00"
+  },
+  {
+   "title": "Por que Trump pressionou pela volta de Jensen Huang à chefia da Nvidia",
+   "dek": "Presidente contou ter 'convencido' empresa a reconduzir CEO ao cargo.",
+   "url": "https://g1.globo.com/tecnologia/noticia/2026/11/26/por-que-trump-pressionou-pela-volta-de-jensen-huang-a-chefia-da-nvidia.ghtml",
+   "source": "g1",
+   "lang": "pt",
+   "published": "2026-11-26T03:00-03:00"
+  },
+  {
+   "title": "Pesquisador da OpenAI usa GPT-6 Astra para propor teoria da gravidade quântica",
+   "dek": "Trabalho de Ven Chandrasekaran aborda um dos grandes desafios da física; proposta matemática ainda precisa de avaliação independente",
+   "url": "https://exame.com/inteligencia-artificial/pesquisador-da-openai-usa-gpt-6-astra-para-propor-teoria-da-gravidade-quantica/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-26T11:51-03:00"
+  },
+  {
+   "title": "GTA 6 pode ser o último grande jogo criado sem IA generativa, diz ex-chefe da Take-Two",
+   "dek": "Take-Two afirma que a Rockstar não usou IA generativa em GTA 6; ex-CEO da empresa diz que o jogo pode ser o último grande lançamento feito dessa forma.",
+   "url": "https://exame.com/inteligencia-artificial/gta-6-pode-ser-o-ultimo-grande-jogo-criado-sem-ia-generativa-diz-ex-chefe-da-take-two/",
+   "source": "Exame",
+   "lang": "pt",
+   "published": "2026-11-26T11:09-03:00"
+  },
+  {
+   "title": "I’m an AI leader at a tech giant. Our industry has stopped taking safety seriously | Anonymous",
+   "dek": "We’re developing the most powerful tech in history – but trust, safeguarding and privacy are being sidelined in favour of huge profit I’m a senior AI leader at one of the world’s biggest tech companie",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/26/ai-leader-tech-giant-trust-safeguarding-privacy-profit",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-26T11:06-03:00"
+  },
+  {
+   "title": "Dozens of court cases in England and Wales affected by undisclosed AI use in 2026",
+   "dek": "Exclusive: Investigation finds at least 25 cases affected by AI-generated witness statements, fictitious case law and nonexistent statutes Undisclosed AI use has affected more than two dozen court cas",
+   "url": "https://www.theguardian.com/technology/2026/nov/26/dozens-of-court-cases-in-england-and-wales-affected-by-undisclosed-ai-use-in-2026",
+   "source": "The Guardian",
+   "lang": "en",
+   "published": "2026-11-26T09:19-03:00"
+  },
+  {
+   "title": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work",
+   "dek": "OpenAI will introduce a single usage meter across ChatGPT as it combines the Chat and Work experiences.",
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-25T17:03-03:00"
+  },
+  {
+   "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+   "dek": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source": "TechCrunch",
+   "lang": "en",
+   "published": "2026-11-25T16:44-03:00"
+  }
+ ]
+}
